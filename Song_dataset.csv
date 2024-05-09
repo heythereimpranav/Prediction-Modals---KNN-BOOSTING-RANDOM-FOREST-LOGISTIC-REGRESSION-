@@ -1,0 +1,1015 @@
+song,artist,genre,explicit,year,duration_ms,speechiness,liveness,danceability,valence,Mood,Rating_popularity
+Oops!...I Did It Again,Britney Spears,pop,FALSE,2000,211160,0.04,0.36,0.75,0.89,Cheerful,Popular
+All The Small Things,blink-182,rock,FALSE,1999,167066,0.05,0.61,0.43,0.68,Happy,Popular
+It's My Life,Bon Jovi,rock,FALSE,2000,224493,0.05,0.35,0.55,0.54,Happy,Popular
+The Real Slim Shady,Eminem,hip hop,TRUE,2000,284200,0.06,0.05,0.95,0.76,Cheerful,Popular
+Say My Name,Destiny's Child,pop,FALSE,1999,271333,0.1,0.15,0.71,0.73,Happy,Popular
+Lady - Hear Me Tonight,Modjo,Dance,FALSE,2001,307153,0.04,0.06,0.72,0.87,Cheerful,Popular
+L'Amour Toujours,Gigi D'Agostino,pop,FALSE,2011,238759,0.03,0.36,0.62,0.81,Cheerful,Underrated
+Try Again,Aaliyah,hip hop,FALSE,2002,284000,0.29,0.08,0.8,0.73,Happy,Underrated
+Better Off Alone,Alice Deejay,pop,FALSE,2000,214883,0.06,0.29,0.67,0.78,Cheerful,Popular
+The Next Episode,Dr. Dre,hip hop,TRUE,1999,161506,0.27,0.09,0.92,0.31,Sad,Popular
+In the End,Linkin Park,rock,FALSE,2000,216880,0.06,0.21,0.56,0.4,Sad,Popular
+Take A Look Around,Limp Bizkit,metal,FALSE,2000,321040,0.05,0.09,0.43,0.51,Happy,Popular
+What'chu Like (feat. Tyrese),Da Brat,hip hop,TRUE,2000,221160,0.24,0.07,0.88,0.82,Cheerful,Underrated
+Don't Give Up,Chicane,Electronic,FALSE,2016,210786,0.04,0.08,0.64,0.53,Happy,Underrated
+Dance with Me,Debelah Morgan,pop,FALSE,2000,220106,0.04,0.04,0.85,0.74,Happy,Underrated
+No More,Ruff Endz,R&B,FALSE,2000,242560,0.09,0.06,0.84,0.93,Cheerful,Underrated
+Bounce With Me (feat. Xscape) - Edited Album Version,Bow Wow,hip hop,FALSE,2000,175893,0.17,0.27,0.85,0.93,Cheerful,Underrated
+Forgot About Dre,Dr. Dre,hip hop,TRUE,1999,222293,0.08,0.16,0.92,0.62,Happy,Popular
+Hot Boyz,Missy Elliott,hip hop,TRUE,1998,215466,0.29,0.18,0.73,0.53,Happy,Underrated
+Gotta Tell You,Samantha Mumba,pop,FALSE,2018,201946,0.03,0.17,0.73,0.77,Cheerful,Underrated
+Wifey,Next,hip hop,FALSE,2004,243666,0.11,0.08,0.83,0.73,Happy,Underrated
+Doesn't Really Matter,Janet Jackson,pop,FALSE,2001,265026,0.08,0.1,0.77,0.8,Cheerful,Underrated
+Go Let It Out,Oasis,Folk,FALSE,2000,278666,0.03,0.56,0.41,0.63,Happy,Underrated
+Most Girls,P!nk,pop,FALSE,2000,298960,0.03,0.1,0.74,0.69,Happy,Underrated
+Against All Odds (Take A Look at Me Now) (feat. Westlife),Mariah Carey,pop,FALSE,2011,199480,0.03,0.1,0.47,0.37,Sad,Underrated
+Otherside,Red Hot Chili Peppers,rock,FALSE,1999,255373,0.06,0.08,0.46,0.51,Happy,Popular
+Kryptonite,3 Doors Down,pop,FALSE,2000,233933,0.03,0.17,0.55,0.54,Happy,Popular
+I Wish,Carl Thomas,pop,FALSE,2000,226760,0.03,0.11,0.74,0.22,Depressed,Underrated
+Hemorrhage (In My Hands),Fuel,rock,FALSE,2000,236866,0.04,0.24,0.31,0.33,Sad,Underrated
+It Wasn't Me,Shaggy,hip hop,FALSE,2000,227600,0.07,0.31,0.85,0.65,Happy,Popular
+Stan,Eminem,hip hop,TRUE,2000,404106,0.24,0.52,0.78,0.51,Sad,Popular
+Can't Get You out of My Head,Kylie Minogue,pop,FALSE,2001,230640,0.03,0.12,0.77,0.96,Cheerful,Popular
+I'm Like A Bird,Nelly Furtado,hip hop,FALSE,2000,243160,0.04,0.27,0.62,0.61,Happy,Underrated
+"Whenever, Wherever",Shakira,pop,FALSE,2001,196160,0.04,0.2,0.79,0.87,Cheerful,Popular
+The Middle,Jimmy Eat World,rock,FALSE,2001,165853,0.05,0.06,0.64,0.9,Cheerful,Popular
+Drops of Jupiter (Tell Me),Train,pop,FALSE,2001,259933,0.03,0.15,0.48,0.5,Sad,Popular
+Family Affair,Mary J. Blige,pop,FALSE,2001,265866,0.04,0.09,0.91,0.97,Cheerful,Popular
+We Come 1 - Radio Edit,Faithless,pop,FALSE,2015,222435,0.04,0.15,0.65,0.61,Happy,Underrated
+Rollin' (Air Raid Vehicle),Limp Bizkit,metal,TRUE,2000,213760,0.17,0.21,0.6,0.71,Happy,Popular
+Irresistible,Jessica Simpson,pop,FALSE,2001,194026,0.06,0.06,0.66,0.67,Happy,Underrated
+Let Me Blow Ya Mind,Eve,hip hop,TRUE,2001,230133,0.11,0.07,0.91,0.9,Cheerful,Popular
+Ain't It Funny,Jennifer Lopez,hip hop,FALSE,2001,246160,0.05,0.08,0.71,0.62,Happy,Underrated
+Another Day in Paradise - R&B-Version,Brandy,hip hop,FALSE,2002,271626,0.03,0.07,0.7,0.56,Happy,Underrated
+How You Remind Me,Nickelback,rock,FALSE,2001,223840,0.03,0.1,0.45,0.54,Happy,Popular
+One More Time,Daft Punk,hip hop,FALSE,2001,320357,0.13,0.33,0.61,0.48,Sad,Popular
+Ms. Jackson,Outkast,hip hop,TRUE,2000,270506,0.27,0.08,0.84,0.61,Happy,Popular
+Everytime You Need Me - Radio Version,Fragma,pop,FALSE,2001,213346,0.03,0.34,0.68,0.79,Cheerful,Underrated
+Loverboy,Mariah Carey,pop,FALSE,2001,229173,0.12,0.1,0.72,0.82,Cheerful,Underrated
+Thank You,Dido,pop,FALSE,1999,218360,0.04,0.07,0.73,0.76,Cheerful,Popular
+Nobody Wants to Be Lonely (with Christina Aguilera),Ricky Martin,pop,FALSE,2008,252706,0.06,0.06,0.64,0.59,Happy,Underrated
+Another Chance,Roger Sanchez,Electronic,FALSE,2000,452906,0.03,0.14,0.61,0.45,Sad,Underrated
+Clint Eastwood,Gorillaz,hip hop,TRUE,2001,340920,0.17,0.07,0.66,0.53,Happy,Popular
+Stranger in My House,Tamia,pop,FALSE,2000,285386,0.03,0.15,0.68,0.21,Depressed,Underrated
+Let's Dance - Radio Edit,Five,pop,FALSE,2001,218626,0.09,0.29,0.63,0.55,Happy,Underrated
+Smooth Criminal,Alien Ant Farm,rock,FALSE,2001,209266,0.06,0.14,0.65,0.87,Cheerful,Popular
+Pop Ya Collar - Radio Edit,Usher,hip hop,FALSE,2016,210813,0.09,0.23,0.89,0.87,Cheerful,Underrated
+Don't Tell Me,Madonna,pop,FALSE,2000,280973,0.06,0.09,0.7,0.68,Happy,Underrated
+Turn Off The Light,Nelly Furtado,hip hop,FALSE,2000,276106,0.09,0.41,0.59,0.65,Happy,Underrated
+All I Want - Sunship Radio Edit,Mis-Teeq,pop,FALSE,2004,207400,0.08,0.19,0.8,0.96,Cheerful,Underrated
+It's the Way You Make Me Feel,Steps,pop,FALSE,2000,197360,0.02,0.1,0.57,0.35,Sad,Underrated
+Gotta Get Thru This - D'N'D Radio Edit,Daniel Bedingfield,pop,FALSE,2002,162333,0.06,0.1,0.84,0.94,Cheerful,Underrated
+Point Of View - Radio Edit,DB Boulevard,Electronic,FALSE,2018,231166,0.03,0.07,0.68,0.28,Sad,Underrated
+Love,Musiq Soulchild,pop,FALSE,2000,304666,0.05,0.09,0.57,0.34,Sad,Underrated
+21 Seconds,So Solid Crew,Electronic,TRUE,2001,302826,0.24,0.12,0.61,0.82,Cheerful,Underrated
+Eternity,Robbie Williams,pop,FALSE,2001,302760,0.03,0.09,0.47,0.2,Depressed,Underrated
+Romeo,Basement Jaxx,pop,FALSE,2001,217493,0.05,0.14,0.71,0.84,Cheerful,Underrated
+Ride Wit Me,Nelly,hip hop,TRUE,2000,291781,0.05,0.24,0.85,0.72,Happy,Popular
+Crazy,K-Ci & JoJo,pop,FALSE,2019,262773,0.03,0.55,0.68,0.48,Sad,Underrated
+Gone,*NSYNC,pop,FALSE,2001,292000,0.06,0.13,0.7,0.5,Sad,Underrated
+Dilemma,Nelly,hip hop,TRUE,2002,289160,0.14,0.2,0.73,0.61,Happy,Popular
+Without Me,Eminem,hip hop,TRUE,2002,290320,0.07,0.24,0.91,0.66,Happy,Popular
+Complicated,Avril Lavigne,pop,FALSE,2002,244506,0.05,0.3,0.59,0.43,Sad,Popular
+A Thousand Miles,Vanessa Carlton,Folk,FALSE,2002,237493,0.04,0.16,0.56,0.27,Sad,Popular
+Wherever You Will Go,The Calling,pop,FALSE,2001,208600,0.03,0.12,0.56,0.37,Sad,Popular
+Underneath It All,No Doubt,rock,FALSE,2001,302720,0.07,0.39,0.73,0.84,Cheerful,Underrated
+'Till I Collapse,Eminem,hip hop,TRUE,2002,297786,0.19,0.08,0.55,0.1,Depressed,Popular
+Die Another Day,Madonna,pop,FALSE,2003,276360,0.09,0.09,0.79,0.49,Sad,Underrated
+I'm Gonna Be Alright (feat. Nas),Jennifer Lopez,hip hop,FALSE,2002,172240,0.27,0.27,0.72,0.77,Cheerful,Underrated
+If I Could Go! (feat. Lil' Mo & Sacario),Angie Martinez,pop,FALSE,2019,244466,0.36,0.04,0.58,0.7,Happy,Underrated
+In the End,Linkin Park,rock,FALSE,2000,216880,0.06,0.21,0.56,0.4,Sad,Popular
+Rock The Boat,Aaliyah,hip hop,FALSE,2019,275026,0.03,0.19,0.64,0.42,Sad,Underrated
+What About Us?,Brandy,hip hop,FALSE,2002,253200,0.22,0.39,0.69,0.75,Happy,Underrated
+The Logical Song,Scooter,pop,FALSE,2013,234116,0.04,0.43,0.53,0.49,Sad,Underrated
+4 My People (feat. Eve),Missy Elliott,hip hop,TRUE,2001,289373,0.16,0.2,0.97,0.91,Cheerful,Underrated
+More Than A Woman,Aaliyah,hip hop,FALSE,2002,230346,0.08,0.18,0.65,0.74,Happy,Underrated
+Full Moon,Brandy,hip hop,FALSE,2002,248933,0.14,0.09,0.61,0.61,Happy,Underrated
+Nessaja,Scooter,pop,FALSE,2013,208449,0.04,0.19,0.49,0.12,Depressed,Underrated
+Hot In Herre,Nelly,hip hop,TRUE,2002,228240,0.12,0.06,0.96,0.91,Cheerful,Popular
+Anyone of Us (Stupid Mistake),Gareth Gates,pop,FALSE,2003,227866,0.03,0.08,0.7,0.65,Happy,Underrated
+Uh Huh,B2K,hip hop,FALSE,2002,223293,0.07,0.06,0.86,0.91,Cheerful,Underrated
+Freak Like Me,Sugababes,pop,FALSE,2002,195866,0.09,0.56,0.52,0.39,Sad,Underrated
+Days Go By,Dirty Vegas,Electronic,FALSE,2002,432146,0.07,0.35,0.79,0.31,Sad,Underrated
+What's Luv? (feat. Ja-Rule & Ashanti),Fat Joe,hip hop,TRUE,2001,267093,0.06,0.11,0.84,0.92,Cheerful,Popular
+Just A Little,Liberty X,pop,FALSE,2019,237359,0.06,0.05,0.79,0.74,Happy,Underrated
+Hella Good,No Doubt,rock,FALSE,2001,242586,0.04,0.09,0.77,0.84,Cheerful,Underrated
+Luv U Better,LL Cool J,hip hop,FALSE,2002,287000,0.24,0.18,0.67,0.72,Happy,Underrated
+Can't Stop,Red Hot Chili Peppers,rock,FALSE,2002,269000,0.05,0.17,0.62,0.88,Cheerful,Popular
+I Love You,Faith Evans,hip hop,FALSE,2001,267160,0.09,0.23,0.49,0.57,Happy,Underrated
+Down 4 U,Charli Baltimore,pop,TRUE,2002,318213,0.32,0.67,0.64,0.52,Happy,Underrated
+Unchained Melody,Gareth Gates,pop,FALSE,2003,233666,0.03,0.11,0.37,0.21,Depressed,Underrated
+Nu Flow,Big Brovaz,pop,FALSE,2001,201480,0.11,0.36,0.78,0.78,Cheerful,Underrated
+Hey Baby,No Doubt,rock,FALSE,2001,207040,0.13,0.23,0.71,0.75,Happy,Underrated
+Rainy Dayz,Mary J. Blige,pop,FALSE,2001,276373,0.23,0.31,0.41,0.53,Happy,Underrated
+Caught in the Middle,A1,pop,FALSE,2001,206466,0.03,0.24,0.52,0.57,Happy,Underrated
+A Woman's Worth,Alicia Keys,pop,FALSE,2001,303333,0.16,0.06,0.65,0.5,Sad,Underrated
+Clocks,Coldplay,rock,FALSE,2002,307879,0.03,0.18,0.58,0.26,Depressed,Popular
+Always On Time,Ja Rule,hip hop,TRUE,2001,245133,0.2,0.24,0.84,0.84,Cheerful,Popular
+Sk8er Boi,Avril Lavigne,pop,FALSE,2002,204000,0.05,0.36,0.49,0.48,Sad,Popular
+By the Way,Red Hot Chili Peppers,rock,FALSE,2002,216933,0.11,0.1,0.45,0.2,Depressed,Popular
+Girlfriend,*NSYNC,pop,FALSE,2001,253600,0.09,0.03,0.75,0.86,Cheerful,Underrated
+One Last Breath - Radio Version,Creed,pop,FALSE,2015,242000,0.04,0.3,0.38,0.2,Depressed,Underrated
+Crossroads - Radio Edit,Blazin' Squad,pop,FALSE,2012,188693,0.04,0.33,0.66,0.5,Sad,Underrated
+Wasting My Time,Default,rock,FALSE,2001,268693,0.03,0.07,0.44,0.17,Depressed,Underrated
+In My Place,Coldplay,rock,FALSE,2002,226680,0.03,0.3,0.42,0.19,Depressed,Popular
+The Whole World (feat. Killer Mike),Outkast,hip hop,TRUE,2001,295346,0.4,0.03,0.81,0.72,Happy,Underrated
+In Da Club,50 Cent,hip hop,TRUE,2003,193466,0.37,0.07,0.9,0.78,Cheerful,Popular
+Get Busy,Sean Paul,hip hop,FALSE,2002,211666,0.04,0.16,0.74,0.73,Happy,Popular
+Lose Yourself - From "8 Mile" Soundtrack,Eminem,hip hop,TRUE,2004,322226,0.26,0.34,0.69,0.06,Depressed,Popular
+Crazy In Love (feat. Jay-Z),Beyoncé,pop,FALSE,2003,236133,0.23,0.07,0.65,0.68,Happy,Popular
+Big Yellow Taxi,Counting Crows,rock,FALSE,2003,225426,0.05,0.14,0.67,0.83,Cheerful,Underrated
+All The Things She Said,t.A.T.u.,pop,TRUE,2020,214440,0.05,0.11,0.53,0.38,Sad,Underrated
+P.I.M.P.,50 Cent,hip hop,TRUE,2003,249480,0.35,0.04,0.71,0.85,Cheerful,Popular
+Faint,Linkin Park,rock,FALSE,2003,162600,0.13,0.07,0.55,0.59,Happy,Popular
+Bring Me To Life,Evanescence,metal,FALSE,2003,235893,0.07,0.24,0.33,0.3,Sad,Popular
+I Hate Everything About You,Three Days Grace,rock,FALSE,2003,231480,0.04,0.14,0.5,0.45,Sad,Popular
+Get Low,Lil Jon & The East Side Boyz,hip hop,FALSE,2002,324600,0.04,0.19,0.78,0.12,Depressed,Underrated
+Suga Suga,Baby Bash,hip hop,FALSE,2003,239026,0.27,0.08,0.66,0.54,Happy,Popular
+Miss You - Main,Aaliyah,hip hop,FALSE,2002,245240,0.04,0.23,0.6,0.51,Happy,Underrated
+Rock Your Body,Justin Timberlake,pop,FALSE,2002,267266,0.14,0.05,0.89,0.82,Cheerful,Popular
+Seven Nation Army,The White Stripes,rock,FALSE,2003,231920,0.08,0.31,0.74,0.31,Sad,Underrated
+Magic Stick,Lil' Kim,hip hop,TRUE,2019,359973,0.27,0.27,0.85,0.5,Sad,Underrated
+U Make Me Wanna - Radio Edit,Blue,pop,FALSE,2003,222400,0.03,0.14,0.6,0.85,Cheerful,Underrated
+Rain On Me,Ashanti,hip hop,FALSE,2003,297960,0.03,0.08,0.61,0.51,Sad,Underrated
+Headstrong,Trapt,rock,TRUE,2002,285569,0.12,0.19,0.49,0.53,Happy,Popular
+Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster,Nelly,hip hop,FALSE,2016,293666,0.3,0.17,0.53,0.91,Cheerful,Underrated
+Be Faithful,Fatman Scoop,hip hop,TRUE,2009,164506,0.3,0.32,0.65,0.63,Happy,Underrated
+The Jump Off (feat. Mr. Cheeks) - Remix,Lil' Kim,hip hop,TRUE,2003,234800,0.34,0.06,0.85,0.94,Cheerful,Underrated
+My Love Is Like...Wo - Main Mix,Mýa,pop,FALSE,2003,209533,0.11,0.31,0.83,0.72,Happy,Underrated
+21 Questions,50 Cent,hip hop,TRUE,2003,224440,0.3,0.04,0.65,0.9,Cheerful,Popular
+Don't Wanna Try,Frankie J,hip hop,FALSE,2003,245293,0.03,0.22,0.66,0.2,Depressed,Underrated
+Danger! High Voltage - Soulchild Radio Mix,Electric Six,rock,FALSE,2003,214600,0.03,0.05,0.66,0.51,Happy,Underrated
+Sweet Dreams My LA Ex - Radio Edit,Rachel Stevens,pop,FALSE,2003,208386,0.14,0.09,0.85,0.91,Cheerful,Underrated
+Cry Me a River,Justin Timberlake,pop,FALSE,2002,288333,0.18,0.1,0.62,0.56,Happy,Popular
+Angel,Amanda Perez,pop,FALSE,2003,218760,0.05,0.16,0.64,0.35,Sad,Underrated
+Clocks,Coldplay,rock,FALSE,2002,307879,0.03,0.18,0.58,0.26,Depressed,Popular
+Like a Stone,Audioslave,rock,FALSE,2002,293960,0.03,0.1,0.61,0.52,Happy,Popular
+White Flag,Dido,pop,FALSE,2003,240040,0.04,0.08,0.51,0.29,Sad,Underrated
+Miss Independent,Kelly Clarkson,pop,FALSE,2003,214773,0.14,0.07,0.66,0.59,Happy,Underrated
+Reptilia,The Strokes,rock,FALSE,2003,219826,0.03,0.1,0.49,0.77,Cheerful,Popular
+Yeah! (feat. Lil Jon & Ludacris),Usher,hip hop,FALSE,2004,250373,0.11,0.04,0.89,0.58,Happy,Popular
+This Love,Maroon 5,pop,FALSE,2002,206200,0.04,0.09,0.71,0.81,Cheerful,Popular
+Toxic,Britney Spears,pop,FALSE,2003,198800,0.11,0.24,0.77,0.92,Cheerful,Popular
+Hey Ya!,Outkast,hip hop,FALSE,2003,235213,0.07,0.17,0.73,0.97,Cheerful,Popular
+The Reason,Hoobastank,pop,FALSE,2003,232800,0.03,0.16,0.47,0.07,Depressed,Popular
+Gasolina,Daddy Yankee,latin,FALSE,2004,192600,0.06,0.08,0.86,0.75,Happy,Underrated
+Let's Get It Started - Spike Mix,Black Eyed Peas,hip hop,FALSE,2004,217733,0.13,0.29,0.79,0.8,Cheerful,Underrated
+Numb,Linkin Park,rock,FALSE,2003,185586,0.04,0.64,0.5,0.24,Depressed,Popular
+Locked Up,Akon,pop,TRUE,2004,235066,0.1,0.11,0.82,0.35,Sad,Underrated
+My Band,D12,hip hop,TRUE,2004,298773,0.08,0.12,0.85,0.84,Cheerful,Popular
+Eyes On You - Radio Mix,Jay Sean,hip hop,FALSE,2004,190493,0.08,0.14,0.8,0.62,Happy,Underrated
+Call on Me - Radio Mix,Eric Prydz,pop,FALSE,2004,171360,0.38,0.84,0.6,0.45,Sad,Popular
+My Prerogative,Britney Spears,pop,FALSE,2004,213893,0.12,0.1,0.75,0.62,Happy,Underrated
+Suga Suga,Baby Bash,hip hop,FALSE,2003,239026,0.27,0.08,0.66,0.54,Happy,Popular
+Dirt Off Your Shoulder,JAY-Z,hip hop,TRUE,2003,245173,0.32,0.34,0.78,0.65,Happy,Underrated
+Radio,Robbie Williams,pop,FALSE,2004,233600,0.03,0.26,0.61,0.85,Cheerful,Underrated
+Hey Mama,Black Eyed Peas,hip hop,TRUE,2003,214893,0.23,0.58,0.86,0.93,Cheerful,Underrated
+Not In Love - Radio Mix,Enrique Iglesias,pop,FALSE,2003,223133,0.04,0.05,0.76,0.89,Cheerful,Underrated
+Leave (Get Out) - Radio Edit,JoJo,hip hop,FALSE,2005,242746,0.25,0.08,0.66,0.46,Sad,Underrated
+Dip It Low,Christina Milian,hip hop,FALSE,2004,197186,0.1,0.08,0.75,0.61,Happy,Underrated
+Drop It Like It's Hot,Snoop Dogg,hip hop,TRUE,2004,266066,0.22,0.1,0.89,0.68,Happy,Underrated
+Good Luck,Basement Jaxx,pop,FALSE,2003,282306,0.16,0.59,0.57,0.31,Sad,Underrated
+Cha Cha Slide - Hardino Mix,DJ Casper,pop,FALSE,2004,222146,0.13,0.29,0.85,0.8,Cheerful,Underrated
+I Believe in You,Kylie Minogue,pop,FALSE,2004,200973,0.07,0.33,0.55,0.42,Sad,Underrated
+Take Me Out,Franz Ferdinand,rock,FALSE,2004,237026,0.04,0.14,0.28,0.53,Happy,Popular
+Sunshine (feat. Lea),Lil' Flip,hip hop,TRUE,2004,225173,0.09,0.13,0.81,0.79,Cheerful,Underrated
+Jesus Walks,Kanye West,hip hop,TRUE,2004,193733,0.32,0.32,0.64,0.72,Happy,Popular
+My Immortal,Evanescence,metal,FALSE,2003,262533,0.04,0.13,0.19,0.1,Depressed,Popular
+If There's Any Justice,Lemar,R&B,FALSE,2004,229080,0.05,0.34,0.71,0.64,Happy,Underrated
+Slow Jamz,Twista,hip hop,TRUE,2004,316053,0.17,0.28,0.56,0.61,Happy,Popular
+American Idiot,Green Day,rock,TRUE,2004,176346,0.06,0.37,0.38,0.77,Cheerful,Popular
+Comfortably Numb,Scissor Sisters,pop,FALSE,2004,266040,0.04,0.1,0.8,0.79,Cheerful,Underrated
+Through The Wire,Kanye West,hip hop,TRUE,2004,221226,0.25,0.16,0.57,0.66,Happy,Popular
+Splash Waterfalls,Ludacris,hip hop,TRUE,2003,290760,0.41,0.23,0.73,0.7,Happy,Underrated
+White Flag,Dido,pop,FALSE,2003,240040,0.04,0.08,0.51,0.29,Sad,Underrated
+Here Without You,3 Doors Down,pop,FALSE,2002,238733,0.03,0.21,0.56,0.23,Depressed,Popular
+All Falls Down,Kanye West,hip hop,TRUE,2004,223506,0.48,0.14,0.66,0.43,Sad,Popular
+My Boo,Usher,hip hop,FALSE,2004,223440,0.12,0.05,0.66,0.68,Happy,Popular
+Like Toy Soldiers,Eminem,hip hop,TRUE,2004,296880,0.36,0.1,0.52,0.4,Sad,Underrated
+Let Me Love You,Mario,pop,FALSE,2004,256733,0.09,0.12,0.66,0.56,Happy,Popular
+Gold Digger,Kanye West,hip hop,TRUE,2005,207626,0.35,0.06,0.63,0.62,Happy,Popular
+Pon de Replay,Rihanna,hip hop,FALSE,2005,246960,0.16,0.1,0.78,0.5,Sad,Popular
+Candy Shop,50 Cent,hip hop,TRUE,2005,209106,0.47,0.38,0.61,0.76,Happy,Popular
+You're Beautiful,James Blunt,pop,TRUE,2005,209493,0.03,0.09,0.68,0.45,Sad,Popular
+Boulevard of Broken Dreams,Green Day,rock,TRUE,2004,261266,0.03,0.04,0.49,0.51,Sad,Popular
+Don't Cha,The Pussycat Dolls,pop,FALSE,2005,272080,0.1,0.13,0.88,0.55,Happy,Popular
+Bad Day,Daniel Powter,pop,FALSE,2005,233640,0.03,0.15,0.6,0.52,Happy,Popular
+Bananza (Belly Dancer),Akon,pop,FALSE,2004,238493,0.13,0.76,0.88,0.67,Happy,Underrated
+Hung Up,Madonna,pop,FALSE,2005,337733,0.05,0.07,0.65,0.41,Sad,Popular
+Just A Lil Bit,50 Cent,hip hop,TRUE,2005,237706,0.41,0.32,0.49,0.53,Happy,Popular
+Ass Like That,Eminem,hip hop,TRUE,2004,265480,0.37,0.11,0.65,0.68,Happy,Underrated
+Remember the Name (feat. Styles of Beyond),Fort Minor,hip hop,TRUE,2005,230493,0.09,0.08,0.69,0.88,Cheerful,Popular
+Disco Inferno,50 Cent,hip hop,TRUE,2005,214226,0.23,0.28,0.93,0.71,Happy,Popular
+How We Do,The Game,hip hop,TRUE,2005,235533,0.25,0.03,0.86,0.64,Happy,Popular
+It's Like That,Mariah Carey,pop,FALSE,2005,203360,0.05,0.03,0.8,0.84,Cheerful,Underrated
+"Baby, I'm Back",Baby Bash,hip hop,TRUE,2005,219920,0.11,0.1,0.9,0.75,Happy,Underrated
+Numb / Encore,JAY-Z,hip hop,TRUE,2004,205733,0.17,0.58,0.69,0.75,Happy,Popular
+Hate It Or Love It,The Game,hip hop,TRUE,2005,206400,0.21,0.12,0.8,0.44,Sad,Popular
+Feel Good Inc.,Gorillaz,hip hop,FALSE,2005,222640,0.18,0.61,0.82,0.77,Cheerful,Popular
+Lonely,Akon,pop,TRUE,2004,235800,0.04,0.24,0.63,0.62,Happy,Underrated
+Mockingbird,Eminem,hip hop,TRUE,2004,250760,0.27,0.16,0.64,0.25,Depressed,Popular
+La Tortura (feat. Alejandro Sanz),Shakira,pop,FALSE,2005,212893,0.04,0.12,0.74,0.81,Cheerful,Popular
+DARE,Gorillaz,hip hop,FALSE,2005,244999,0.04,0.3,0.76,0.97,Cheerful,Popular
+Play,David Banner,hip hop,TRUE,2005,230133,0.13,0.24,0.84,0.59,Happy,Underrated
+Some Cut,Trillville,hip hop,TRUE,2004,283454,0.37,0.11,0.9,0.66,Happy,Underrated
+Almost Here,Brian McFadden,pop,FALSE,2004,229826,0.03,0.11,0.56,0.32,Sad,Underrated
+Drop It Like It's Hot,Snoop Dogg,hip hop,TRUE,2004,266066,0.22,0.1,0.89,0.68,Happy,Underrated
+Get It Poppin' (feat. Nelly) - Radio Version,Fat Joe,hip hop,FALSE,2005,211320,0.37,0.06,0.91,0.52,Happy,Underrated
+"1, 2 Step (feat. Missy Elliott) - Main",Ciara,pop,FALSE,2005,202213,0.16,0.05,0.94,0.8,Cheerful,Underrated
+1 Thing,Amerie,hip hop,FALSE,2008,238746,0.33,0.04,0.64,0.89,Cheerful,Underrated
+Shiver,Natalie Imbruglia,pop,FALSE,2005,222653,0.03,0.15,0.49,0.31,Sad,Underrated
+The Kill,Thirty Seconds To Mars,rock,FALSE,2005,231533,0.08,0.58,0.18,0.29,Sad,Popular
+Karma,Alicia Keys,pop,FALSE,2003,256000,0.06,0.03,0.73,0.69,Happy,Underrated
+Don't Forget About Us - Radio Edit,Mariah Carey,pop,FALSE,2005,233866,0.04,0.1,0.7,0.39,Sad,Underrated
+Switch,Will Smith,hip hop,FALSE,2020,197666,0.18,0.56,0.87,0.48,Sad,Underrated
+You Raise Me Up,Westlife,pop,FALSE,2005,241066,0.03,0.09,0.13,0.17,Depressed,Underrated
+That's My Goal,Shayne Ward,pop,FALSE,2006,219600,0.03,0.27,0.29,0.14,Depressed,Underrated
+Let Me Go,3 Doors Down,pop,FALSE,2012,243053,0.04,0.11,0.48,0.49,Sad,Underrated
+I'm Sprung,T-Pain,hip hop,FALSE,2005,231040,0.11,0.08,0.72,0.17,Depressed,Underrated
+Best of You,Foo Fighters,rock,FALSE,2005,255626,0.07,0.19,0.37,0.37,Sad,Popular
+Hips Don't Lie (feat. Wyclef Jean),Shakira,pop,FALSE,2005,218093,0.07,0.41,0.78,0.76,Happy,Popular
+Temperature,Sean Paul,hip hop,FALSE,2005,218573,0.07,0.07,0.95,0.82,Cheerful,Popular
+SexyBack (feat. Timbaland),Justin Timberlake,pop,TRUE,2006,242733,0.08,0.05,0.97,0.96,Cheerful,Popular
+SOS,Rihanna,hip hop,FALSE,2006,238920,0.04,0.41,0.68,0.53,Happy,Popular
+Crazy,Gnarls Barkley,hip hop,FALSE,2006,177466,0.03,0.11,0.86,0.64,Happy,Popular
+Maneater,Nelly Furtado,hip hop,FALSE,2006,258893,0.04,0.12,0.8,0.79,Cheerful,Popular
+Pump It,Black Eyed Peas,hip hop,FALSE,2005,213066,0.18,0.75,0.65,0.74,Happy,Popular
+Promiscuous,Nelly Furtado,hip hop,FALSE,2006,242293,0.05,0.15,0.81,0.87,Cheerful,Popular
+Put Your Hands Up for Detroit - Radio Edit,Fedde Le Grand,pop,FALSE,2015,150533,0.23,0.09,0.81,0.52,Happy,Underrated
+Shake That,Eminem,hip hop,TRUE,2005,274440,0.12,0.16,0.96,0.53,Happy,Popular
+Supermassive Black Hole,Muse,rock,FALSE,2006,212439,0.04,0.09,0.67,0.78,Cheerful,Popular
+Me & U,Cassie,pop,FALSE,2006,192213,0.03,0.07,0.8,0.74,Happy,Popular
+My My My - Radio Edit,Armand Van Helden,pop,FALSE,2006,190000,0.14,0.03,0.68,0.76,Happy,Underrated
+No Promises,Shayne Ward,pop,FALSE,2006,223066,0.03,0.12,0.5,0.18,Depressed,Underrated
+My Love (feat. T.I.),Justin Timberlake,pop,FALSE,2006,276160,0.22,0.68,0.77,0.81,Cheerful,Popular
+Everytime We Touch - Radio Edit,Cascada,hip hop,FALSE,2011,199120,0.06,0.37,0.64,0.49,Sad,Underrated
+Control Myself,LL Cool J,hip hop,FALSE,2006,233973,0.21,0.21,0.83,0.48,Sad,Underrated
+Stupid Girls,P!nk,pop,TRUE,2006,197173,0.07,0.05,0.68,0.57,Happy,Underrated
+Bossy,Kelis,pop,FALSE,2006,273973,0.19,0.06,0.91,0.78,Cheerful,Underrated
+Love Generation - Radio Edit,Bob Sinclar,pop,FALSE,2005,207613,0.06,0.04,0.72,0.55,Happy,Underrated
+Thunder in My Heart Again (Radio Edit),Meck,pop,FALSE,2005,189800,0.03,0.07,0.68,0.81,Cheerful,Underrated
+Something Kinda Ooooh,Girls Aloud,pop,FALSE,2012,201590,0.05,0.36,0.68,0.88,Cheerful,Underrated
+Touch The Sky,Kanye West,hip hop,TRUE,2005,236600,0.34,0.31,0.55,0.55,Happy,Popular
+"Dance, Dance",Fall Out Boy,rock,FALSE,2005,180266,0.15,0.09,0.62,0.45,Sad,Popular
+What's Left Of Me,Nick Lachey,pop,FALSE,2006,244613,0.04,0.15,0.42,0.29,Sad,Underrated
+When The Sun Goes Down,Arctic Monkeys,rock,TRUE,2006,202133,0.2,0.12,0.35,0.41,Sad,Popular
+Life is a Highway,Rascal Flatts,country,FALSE,2006,276773,0.06,0.1,0.56,0.59,Happy,Underrated
+Check On It (feat. Slim Thug),Beyoncé,pop,FALSE,2006,211186,0.22,0.38,0.7,0.88,Cheerful,Underrated
+Love,Keyshia Cole,hip hop,FALSE,2005,255333,0.03,0.1,0.69,0.32,Sad,Popular
+Too Little Too Late,JoJo,hip hop,FALSE,2006,223680,0.04,0.15,0.54,0.69,Happy,Underrated
+Dani California,Red Hot Chili Peppers,rock,FALSE,2006,282160,0.04,0.35,0.56,0.73,Happy,Popular
+So Sick,Ne-Yo,pop,FALSE,2006,207186,0.31,0.19,0.45,0.58,Happy,Popular
+Lips Of An Angel,Hinder,pop,FALSE,2019,261053,0.03,0.21,0.47,0.24,Depressed,Underrated
+Where'd You Go (feat. Holly Brook & Jonah Matranga),Fort Minor,hip hop,TRUE,2005,231866,0.24,0.11,0.68,0.25,Depressed,Underrated
+The Rose,Westlife,pop,FALSE,2006,219106,0.03,0.08,0.27,0.17,Depressed,Underrated
+No Tomorrow,Orson,pop,FALSE,2006,167493,0.07,0.28,0.66,0.74,Happy,Underrated
+I'm N Luv (Wit a Stripper) (feat. Mike Jones),T-Pain,hip hop,TRUE,2005,265333,0.07,0.19,0.73,0.51,Happy,Underrated
+Unwritten,Natasha Bedingfield,pop,FALSE,2004,259333,0.04,0.08,0.71,0.63,Happy,Underrated
+You're All I Have,Snow Patrol,Traditional,FALSE,2006,273333,0.05,0.18,0.47,0.5,Sad,Underrated
+How to Save a Life,The Fray,pop,FALSE,2005,262533,0.04,0.1,0.64,0.36,Sad,Popular
+Welcome to the Black Parade,My Chemical Romance,rock,FALSE,2006,311106,0.08,0.22,0.22,0.24,Depressed,Popular
+Wonderful World,James Morrison,pop,FALSE,2006,210066,0.03,0.1,0.47,0.59,Happy,Underrated
+Who Knew,P!nk,pop,FALSE,2006,208493,0.03,0.08,0.69,0.46,Sad,Underrated
+Naive,The Kooks,rock,FALSE,2006,203506,0.09,0.15,0.39,0.74,Happy,Popular
+Bleeding Love,Leona Lewis,pop,FALSE,2007,262466,0.04,0.15,0.64,0.23,Depressed,Popular
+Umbrella,Rihanna,hip hop,FALSE,2008,275986,0.13,0.04,0.58,0.58,Happy,Popular
+Gimme More,Britney Spears,pop,FALSE,2007,251240,0.03,0.07,0.79,0.38,Sad,Popular
+Big Girls Don't Cry (Personal),Fergie,pop,FALSE,2006,268120,0.03,0.09,0.71,0.25,Depressed,Popular
+Valerie (feat. Amy Winehouse) - Version Revisited,Mark Ronson,pop,FALSE,2007,219413,0.05,0.12,0.7,0.9,Cheerful,Underrated
+Hey There Delilah,Plain White T's,pop,FALSE,2005,232533,0.03,0.11,0.66,0.3,Sad,Popular
+The Way I Are,Timbaland,hip hop,FALSE,2007,179120,0.1,0.32,0.73,0.77,Cheerful,Popular
+Say It Right,Nelly Furtado,hip hop,FALSE,2006,223080,0.14,0.05,0.87,0.81,Cheerful,Popular
+Let Me Think About It,Ida Corr,pop,FALSE,2012,151973,0.05,0.15,0.76,0.72,Happy,Underrated
+Destination Calabria - Radio Edit,Alex Gaudino,Electronic,FALSE,2007,223111,0.04,0.29,0.63,0.31,Sad,Popular
+Proper Education - Radio Edit,Eric Prydz,pop,FALSE,2007,198567,0.05,0.09,0.54,0.32,Sad,Underrated
+Put Your Hands Up For Detroit - Radio Edit,Fedde Le Grand,pop,FALSE,2015,150533,0.2,0.1,0.83,0.49,Sad,Underrated
+I Wanna Love You,Akon,pop,TRUE,2006,247066,0.04,0.31,0.87,0.35,Sad,Underrated
+Crank That (Soulja Boy),Soulja Boy,hip hop,FALSE,2007,221933,0.08,0.05,0.74,0.8,Cheerful,Popular
+U + Ur Hand,P!nk,pop,TRUE,2006,214386,0.05,0.03,0.71,0.89,Cheerful,Underrated
+Can't Tell Me Nothing,Kanye West,hip hop,TRUE,2007,271600,0.04,0.82,0.6,0.1,Depressed,Underrated
+The Creeps - Fedde Le Grand Radio Mix,Camille Jones,pop,FALSE,2006,152333,0.06,0.06,0.85,0.72,Happy,Underrated
+What I've Done,Linkin Park,rock,FALSE,2007,205613,0.03,0.14,0.62,0.29,Sad,Popular
+Paralyzer,Finger Eleven,rock,FALSE,2007,208106,0.05,0.23,0.64,0.86,Cheerful,Popular
+Fake It,Seether,rock,TRUE,2007,193893,0.05,0.05,0.61,0.61,Happy,Popular
+My Love (feat. T.I.),Justin Timberlake,pop,FALSE,2006,276160,0.22,0.68,0.77,0.81,Cheerful,Popular
+Bleed It Out,Linkin Park,rock,TRUE,2007,166373,0.05,0.61,0.53,0.6,Happy,Popular
+Teenagers,My Chemical Romance,rock,FALSE,2006,161920,0.06,0.18,0.46,0.86,Cheerful,Popular
+Girlfriend,Avril Lavigne,pop,TRUE,2007,216600,0.1,0.21,0.56,0.67,Happy,Popular
+Because Of You,Ne-Yo,pop,FALSE,2007,266840,0.04,0.1,0.81,0.83,Cheerful,Popular
+It's Not Over,Daughtry,pop,FALSE,2016,215173,0.05,0.31,0.45,0.41,Sad,Underrated
+Walk It Out,Unk,hip hop,TRUE,2013,173040,0.08,0.2,0.79,0.71,Happy,Underrated
+Bartender (feat. Akon),T-Pain,hip hop,TRUE,2007,238800,0.13,0.21,0.68,0.41,Sad,Underrated
+Thnks fr th Mmrs,Fall Out Boy,rock,FALSE,2007,203506,0.06,0.11,0.46,0.59,Happy,Popular
+"Dear Maria, Count Me In",All Time Low,rock,FALSE,2007,182826,0.08,0.21,0.46,0.57,Happy,Popular
+Back To Black,Amy Winehouse,R&B,TRUE,2006,241293,0.04,0.09,0.4,0.38,Sad,Popular
+Do You Know? (The Ping Pong Song),Enrique Iglesias,pop,FALSE,2007,219533,0.05,0.03,0.75,0.71,Happy,Underrated
+With Every Heartbeat,Robyn,pop,FALSE,2005,254920,0.04,0.27,0.48,0.41,Sad,Underrated
+Misery Business,Paramore,pop,FALSE,2007,211520,0.07,0.11,0.52,0.73,Happy,Popular
+Better Than Me,Hinder,pop,FALSE,2019,223533,0.03,0.18,0.45,0.25,Depressed,Underrated
+"Pop, Lock & Drop It - Video Edit",Huey,hip hop,FALSE,2006,261026,0.22,0.35,0.72,0.65,Happy,Underrated
+The Pretender,Foo Fighters,rock,FALSE,2007,269373,0.04,0.03,0.43,0.37,Sad,Popular
+Stop Me (feat. Daniel Merriweather),Mark Ronson,pop,FALSE,2007,232946,0.04,0.14,0.63,0.35,Sad,Underrated
+We Fly High,Jim Jones,hip hop,TRUE,2006,236080,0.3,0.09,0.69,0.48,Sad,Underrated
+Face Down,The Red Jumpsuit Apparatus,pop,FALSE,2006,192000,0.04,0.13,0.55,0.46,Sad,Popular
+Beautiful Girls,Sean Kingston,hip hop,FALSE,2007,225373,0.07,0.26,0.76,0.77,Cheerful,Popular
+Don't Matter,Akon,pop,TRUE,2006,293066,0.04,0.23,0.8,0.34,Sad,Underrated
+Before He Cheats,Carrie Underwood,pop,FALSE,2005,199946,0.04,0.12,0.52,0.29,Sad,Popular
+Starz In Their Eyes,Just Jack,Electronic,FALSE,2006,295933,0.07,0.47,0.67,0.66,Happy,Underrated
+Buy U a Drank (Shawty Snappin') (feat. Yung Joc),T-Pain,hip hop,FALSE,2007,227960,0.26,0.07,0.45,0.59,Happy,Underrated
+Your Love Alone Is Not Enough (feat. Nina Persson),Manic Street Preachers,rock,FALSE,2007,235693,0.05,0.38,0.34,0.4,Sad,Underrated
+Snow (Hey Oh),Red Hot Chili Peppers,rock,FALSE,2006,334666,0.05,0.12,0.43,0.6,Happy,Popular
+Runaway Love,Ludacris,hip hop,TRUE,2006,280680,0.28,0.25,0.41,0.82,Cheerful,Underrated
+Low (feat. T-Pain),Flo Rida,hip hop,FALSE,2008,231400,0.08,0.14,0.92,0.3,Sad,Popular
+I Kissed A Girl,Katy Perry,pop,FALSE,2008,179640,0.07,0.13,0.7,0.7,Happy,Popular
+Take A Bow,Rihanna,hip hop,FALSE,2008,229413,0.07,0.09,0.7,0.57,Happy,Popular
+No One,Alicia Keys,pop,FALSE,2007,253813,0.03,0.13,0.64,0.17,Depressed,Popular
+Apologize,Timbaland,hip hop,FALSE,2007,184400,0.03,0.1,0.65,0.1,Depressed,Popular
+Dangerous,Kardinal Offishall,hip hop,TRUE,2008,246053,0.08,0.08,0.95,0.81,Cheerful,Popular
+Disturbia,Rihanna,hip hop,FALSE,2008,238626,0.06,0.17,0.71,0.72,Happy,Popular
+Infinity 2008,Guru Josh Project,hip hop,FALSE,2011,190013,0.06,0.36,0.49,0.48,Sad,Underrated
+Flashing Lights,Kanye West,hip hop,TRUE,2007,237506,0.04,0.39,0.64,0.43,Sad,Underrated
+Hot N Cold,Katy Perry,pop,FALSE,2008,220226,0.04,0.07,0.71,0.86,Cheerful,Popular
+Don't Stop The Music,Rihanna,hip hop,FALSE,2008,267080,0.06,0.05,0.84,0.54,Happy,Popular
+Womanizer,Britney Spears,pop,FALSE,2008,224400,0.06,0.09,0.72,0.24,Depressed,Popular
+Work,Kelly Rowland,hip hop,FALSE,2010,207920,0.05,0.29,0.89,0.62,Happy,Underrated
+When I Grow Up,The Pussycat Dolls,pop,FALSE,2008,245680,0.05,0.4,0.67,0.37,Sad,Popular
+Heartbreaker,will.i.am,hip hop,TRUE,2007,327880,0.07,0.15,0.79,0.45,Sad,Underrated
+Crank That (Soulja Boy),Soulja Boy,hip hop,FALSE,2007,221933,0.08,0.05,0.74,0.8,Cheerful,Popular
+Live Your Life,T.I.,hip hop,TRUE,2008,338853,0.26,0.21,0.38,0.48,Sad,Popular
+See You Again,Miley Cyrus,pop,FALSE,2007,190453,0.18,0.11,0.69,0.8,Cheerful,Underrated
+Paralyzer,Finger Eleven,rock,FALSE,2007,208106,0.05,0.23,0.64,0.86,Cheerful,Popular
+The Boy Does Nothing,Alesha Dixon,pop,FALSE,2008,210680,0.12,0.03,0.63,0.85,Cheerful,Underrated
+"You're Gonna Go Far, Kid",The Offspring,rock,TRUE,2008,177826,0.06,0.2,0.55,0.6,Happy,Popular
+Homecoming,Kanye West,hip hop,TRUE,2007,203493,0.19,0.12,0.67,0.92,Cheerful,Underrated
+American Boy,Estelle,R&B,TRUE,2008,284733,0.33,0.07,0.73,0.51,Happy,Popular
+So What,P!nk,pop,TRUE,2008,215160,0.04,0.24,0.53,0.46,Sad,Popular
+Paper Planes,M.I.A.,pop,FALSE,2007,205200,0.22,0.65,0.45,0.49,Sad,Underrated
+Wow,Kylie Minogue,pop,FALSE,2007,190973,0.2,0.38,0.65,0.85,Cheerful,Underrated
+Touch My Body,Mariah Carey,pop,FALSE,2008,204733,0.05,0.22,0.72,0.84,Cheerful,Underrated
+Kids,MGMT,rock,FALSE,2007,302840,0.07,0.36,0.45,0.17,Depressed,Popular
+Black & Gold - Radio Edit,Sam Sparro,pop,FALSE,2008,212360,0.08,0.11,0.38,0.42,Sad,Underrated
+That's Not My Name,The Ting Tings,pop,FALSE,2008,310573,0.09,0.36,0.76,0.96,Cheerful,Underrated
+Whatever You Like,T.I.,hip hop,TRUE,2008,249533,0.07,0.26,0.68,0.47,Sad,Popular
+Viva La Vida,Coldplay,rock,FALSE,2008,242373,0.03,0.11,0.49,0.42,Sad,Popular
+Sex on Fire,Kings of Leon,rock,FALSE,2008,203346,0.05,0.14,0.54,0.37,Sad,Popular
+Good Life,Kanye West,hip hop,TRUE,2007,207000,0.35,0.44,0.44,0.49,Sad,Underrated
+In Love With a Girl,Gavin DeGraw,pop,FALSE,2008,206000,0.04,0.37,0.44,0.68,Happy,Underrated
+Sexy Can I feat. Yung Berg,Ray J,hip hop,TRUE,2008,204040,0.33,0.61,0.58,0.93,Cheerful,Underrated
+Forever,Chris Brown,hip hop,FALSE,2008,278573,0.05,0.18,0.67,0.44,Sad,Popular
+Chasing Pavements,Adele,pop,FALSE,2008,210506,0.03,0.11,0.61,0.33,Sad,Underrated
+Can't Believe It (feat. Lil' Wayne),T-Pain,hip hop,FALSE,2008,273826,0.05,0.08,0.65,0.08,Depressed,Underrated
+I Gotta Feeling,Black Eyed Peas,hip hop,FALSE,2009,289133,0.03,0.51,0.74,0.61,Happy,Popular
+Poker Face,Lady Gaga,pop,FALSE,2008,237200,0.08,0.12,0.85,0.79,Cheerful,Popular
+Halo,Beyoncé,pop,FALSE,2008,261640,0.06,0.06,0.51,0.47,Sad,Popular
+Sexy Bitch (feat. Akon),David Guetta,hip hop,TRUE,2010,195853,0.05,0.13,0.81,0.8,Cheerful,Popular
+Right Round,Flo Rida,hip hop,FALSE,2009,204640,0.06,0.23,0.72,0.71,Happy,Popular
+Love Story,Taylor Swift,pop,FALSE,2008,236266,0.03,0.08,0.62,0.31,Sad,Popular
+Circus,Britney Spears,pop,FALSE,2008,192360,0.05,0.07,0.79,0.76,Cheerful,Popular
+Monster,Skillet,rock,FALSE,2009,178013,0.07,0.08,0.64,0.69,Happy,Popular
+Meet Me Halfway,Black Eyed Peas,hip hop,FALSE,2009,284373,0.07,0.32,0.8,0.4,Sad,Popular
+Heartless,Kanye West,hip hop,FALSE,2008,211000,0.14,0.25,0.79,0.65,Happy,Popular
+Day 'N' Nite (Nightmare),Kid Cudi,hip hop,FALSE,2009,221240,0.07,0.12,0.88,0.8,Cheerful,Popular
+Just Dance,Lady Gaga,pop,FALSE,2008,241933,0.03,0.18,0.82,0.75,Happy,Popular
+Sweet Dreams,Beyoncé,pop,FALSE,2008,208066,0.11,0.06,0.69,0.79,Cheerful,Underrated
+Empire State Of Mind,JAY-Z,hip hop,TRUE,2009,276920,0.39,0.46,0.49,0.81,Cheerful,Popular
+Run This Town,JAY-Z,hip hop,TRUE,2009,267520,0.29,0.26,0.63,0.44,Sad,Popular
+Bad Romance,Lady Gaga,pop,TRUE,2009,294573,0.04,0.08,0.7,0.71,Happy,Popular
+Live Your Life,T.I.,hip hop,TRUE,2008,338853,0.26,0.21,0.38,0.48,Sad,Popular
+Bonkers,Dizzee Rascal,hip hop,FALSE,2011,177573,0.22,0.25,0.62,0.74,Happy,Underrated
+Intro,The xx,rock,FALSE,2009,127920,0.03,0.13,0.62,0.15,Depressed,Underrated
+Down,Jay Sean,hip hop,FALSE,2009,212106,0.03,0.08,0.66,0.68,Happy,Underrated
+Turnin Me On - Original Dirty,Keri Hilson,pop,TRUE,2008,248066,0.06,0.13,0.66,0.09,Depressed,Underrated
+Kiss Me Thru The Phone,Soulja Boy,hip hop,TRUE,2008,193386,0.11,0.07,0.76,0.8,Cheerful,Popular
+Sober,P!nk,pop,FALSE,2010,251440,0.03,0.2,0.61,0.41,Sad,Underrated
+Beat Again - Radio Edit,JLS,pop,FALSE,2009,196640,0.07,0.08,0.89,0.97,Cheerful,Underrated
+Break Up,Mario,pop,TRUE,2009,249026,0.36,0.17,0.44,0.48,Sad,Underrated
+Forever,Drake,hip hop,TRUE,2009,357706,0.34,0.18,0.46,0.54,Happy,Popular
+Walking On A Dream,Empire of the Sun,rock,FALSE,2008,198440,0.05,0.06,0.87,0.72,Happy,Popular
+Uprising,Muse,rock,FALSE,2009,304840,0.08,0.12,0.6,0.41,Sad,Popular
+Whatever You Like,T.I.,hip hop,TRUE,2008,249533,0.07,0.26,0.68,0.47,Sad,Popular
+Secrets,OneRepublic,pop,FALSE,2009,224693,0.04,0.12,0.52,0.38,Sad,Popular
+Everybody in Love,JLS,pop,FALSE,2013,195586,0.03,0.36,0.71,0.66,Happy,Underrated
+Big Green Tractor,Jason Aldean,country,FALSE,2009,204200,0.03,0.22,0.62,0.58,Happy,Underrated
+The Fear,Lily Allen,pop,TRUE,2009,207120,0.04,0.11,0.66,0.52,Happy,Underrated
+Sex on Fire,Kings of Leon,rock,FALSE,2008,203346,0.05,0.14,0.54,0.37,Sad,Popular
+Party In The U.S.A.,Miley Cyrus,pop,FALSE,2009,202066,0.04,0.09,0.65,0.47,Sad,Popular
+21 Guns,Green Day,rock,FALSE,2009,321093,0.04,0.63,0.27,0.42,Sad,Popular
+Waking Up In Vegas,Katy Perry,pop,FALSE,2008,199186,0.03,0.1,0.52,0.59,Happy,Underrated
+You Found Me,The Fray,pop,FALSE,2009,241853,0.04,0.14,0.34,0.4,Sad,Popular
+Just the Way You Are,Bruno Mars,pop,FALSE,2010,220734,0.04,0.06,0.64,0.42,Sad,Popular
+Love The Way You Lie,Eminem,hip hop,TRUE,2010,263373,0.23,0.52,0.75,0.64,Happy,Popular
+Bad Romance,Lady Gaga,pop,TRUE,2009,294573,0.04,0.08,0.7,0.71,Happy,Popular
+Alors on danse - Radio Edit,Stromae,pop,FALSE,2010,206066,0.08,0.07,0.79,0.71,Happy,Popular
+TiK ToK,Kesha,pop,FALSE,2010,199693,0.14,0.29,0.76,0.71,Happy,Popular
+Memories (feat. Kid Cudi),David Guetta,hip hop,FALSE,2010,210853,0.26,0.25,0.55,0.38,Sad,Popular
+Dynamite,Taio Cruz,hip hop,FALSE,2010,202613,0.09,0.04,0.75,0.82,Cheerful,Popular
+Only Girl (In The World),Rihanna,hip hop,FALSE,2010,235493,0.04,0.07,0.79,0.61,Happy,Popular
+California Gurls,Katy Perry,pop,FALSE,2012,234653,0.06,0.16,0.79,0.43,Sad,Popular
+Hot - Play & Win Radio Version,INNA,pop,FALSE,2010,217036,0.28,0.43,0.82,0.6,Happy,Underrated
+Like A G6,Far East Movement,hip hop,FALSE,2010,216893,0.45,0.12,0.44,0.78,Cheerful,Popular
+Barbra Streisand - Radio Edit,Duck Sauce,Electronic,FALSE,2010,196533,0.11,0.23,0.77,0.51,Sad,Underrated
+Danza Kuduro (feat. Don Omar),Lucenzo,latin,FALSE,2011,213986,0.11,0.07,0.62,0.77,Cheerful,Underrated
+Break Your Heart,Taio Cruz,hip hop,FALSE,2010,201546,0.03,0.09,0.61,0.57,Happy,Popular
+Riverside,Sidney Samson,Electronic,TRUE,2009,320348,0.04,0.13,0.8,0.24,Depressed,Underrated
+Not Afraid,Eminem,hip hop,TRUE,2010,248133,0.26,0.21,0.86,0.67,Happy,Popular
+Rude Boy,Rihanna,hip hop,TRUE,2009,222920,0.13,0.08,0.56,0.81,Cheerful,Popular
+Starstrukk,3OH!3,hip hop,FALSE,2010,203093,0.07,0.21,0.61,0.26,Sad,Underrated
+DJ Got Us Fallin' In Love (feat. Pitbull),Usher,hip hop,FALSE,2010,220800,0.11,0.08,0.66,0.65,Happy,Popular
+Replay,Iyaz,hip hop,FALSE,2009,182306,0.07,0.17,0.71,0.2,Depressed,Popular
+Club Can't Handle Me (feat. David Guetta),Flo Rida,hip hop,FALSE,2010,234560,0.03,0.06,0.62,0.47,Sad,Popular
+Eenie Meenie,Sean Kingston,hip hop,FALSE,2010,201946,0.03,0.11,0.72,0.83,Cheerful,Popular
+Talking to the Moon,Bruno Mars,pop,FALSE,2010,217866,0.03,0.11,0.5,0.08,Depressed,Popular
+Can't Be Tamed,Miley Cyrus,pop,FALSE,2010,168213,0.14,0.2,0.63,0.74,Happy,Underrated
+Cooler Than Me - Single Mix,Mike Posner,hip hop,FALSE,2010,213293,0.05,0.69,0.77,0.63,Happy,Popular
+We No Speak Americano (JT Radio Edit),Yolanda Be Cool,Electronic,FALSE,2010,157438,0.05,0.09,0.9,0.74,Happy,Underrated
+Pass Out,Tinie Tempah,hip hop,TRUE,2010,268053,0.3,0.14,0.69,0.53,Happy,Underrated
+Bottoms Up (feat. Nicki Minaj),Trey Songz,hip hop,TRUE,2010,242013,0.16,0.39,0.85,0.33,Sad,Underrated
+Seek Bromance - Avicii’s Vocal Edit,Tim Berg,pop,FALSE,2010,203960,0.04,0.04,0.52,0.52,Happy,Underrated
+OMG (feat. will.i.am),Usher,hip hop,FALSE,2010,269493,0.03,0.36,0.78,0.33,Sad,Popular
+Down,Jay Sean,hip hop,FALSE,2009,212106,0.03,0.08,0.66,0.68,Happy,Underrated
+Baby,Justin Bieber,pop,FALSE,2010,214240,0.14,0.11,0.73,0.54,Happy,Popular
+"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",DJ Khaled,hip hop,TRUE,2010,232506,0.19,0.16,0.54,0.28,Sad,Underrated
+I Need A Dollar,Aloe Blacc,R&B,FALSE,2010,243053,0.03,0.09,0.84,0.96,Cheerful,Underrated
+Airplanes (feat. Hayley Williams of Paramore),B.o.B,hip hop,TRUE,2010,180480,0.12,0.04,0.66,0.38,Sad,Popular
+Just A Dream,Nelly,hip hop,FALSE,2010,237800,0.03,0.12,0.53,0.1,Depressed,Popular
+Impossible,Shontelle,pop,FALSE,2010,226533,0.03,0.13,0.6,0.54,Happy,Underrated
+Do You Remember,Jay Sean,hip hop,FALSE,2009,210306,0.06,0.1,0.86,0.8,Cheerful,Underrated
+All Time Low,The Wanted,pop,FALSE,2010,205200,0.06,0.08,0.69,0.78,Cheerful,Underrated
+What You Know,Two Door Cinema Club,Traditional,FALSE,2010,189693,0.04,0.09,0.55,0.84,Cheerful,Underrated
+Nothin' on You (feat. Bruno Mars),B.o.B,hip hop,FALSE,2010,268320,0.05,0.09,0.69,0.74,Happy,Popular
+This Ain't a Love Song,Scouting For Girls,pop,FALSE,2017,210680,0.05,0.38,0.46,0.55,Happy,Underrated
+Billionaire (feat. Bruno Mars),Travie McCoy,hip hop,TRUE,2010,211160,0.26,0.21,0.63,0.66,Happy,Popular
+Fireflies,Owl City,rock,FALSE,2009,228346,0.04,0.12,0.51,0.47,Sad,Popular
+Need You Now,Lady A,pop,FALSE,2010,236440,0.03,0.24,0.58,0.32,Sad,Popular
+Live Like We're Dying,Kris Allen,pop,FALSE,2009,212506,0.04,0.34,0.59,0.94,Cheerful,Underrated
+When We Collide,Matt Cardle,pop,FALSE,2011,226000,0.03,0.31,0.44,0.45,Sad,Underrated
+Dancing On My Own,Robyn,pop,FALSE,2010,288670,0.03,0.1,0.69,0.26,Sad,Underrated
+Rolling in the Deep,Adele,pop,TRUE,2011,228093,0.03,0.05,0.73,0.51,Sad,Underrated
+Moves Like Jagger - Studio Recording From "The Voice" Performance,Maroon 5,pop,FALSE,2010,201493,0.05,0.32,0.72,0.62,Happy,Popular
+Party Rock Anthem,LMFAO,hip hop,FALSE,2011,262146,0.16,0.27,0.75,0.35,Sad,Popular
+Firework,Katy Perry,pop,FALSE,2010,227893,0.05,0.11,0.64,0.65,Happy,Popular
+Grenade,Bruno Mars,pop,FALSE,2010,222091,0.05,0.11,0.7,0.25,Depressed,Popular
+Mr. Saxobeat,Alexandra Stan,pop,FALSE,2011,195105,0.05,0.14,0.73,0.8,Cheerful,Underrated
+On The Floor,Jennifer Lopez,hip hop,FALSE,2011,284866,0.05,0.07,0.73,0.58,Happy,Popular
+S&M,Rihanna,hip hop,FALSE,2010,243533,0.04,0.1,0.77,0.83,Cheerful,Popular
+Changed the Way You Kiss Me - Radio Edit,Example,pop,FALSE,2011,195466,0.04,0.09,0.58,0.19,Depressed,Underrated
+Just Can’t Get Enough,Black Eyed Peas,hip hop,FALSE,2010,219426,0.18,0.11,0.66,0.26,Sad,Popular
+Where Them Girls At (feat. Nicki Minaj & Flo Rida),David Guetta,hip hop,TRUE,2012,194840,0.04,0.26,0.67,0.55,Happy,Popular
+I Follow Rivers - The Magician Remix,Lykke Li,pop,FALSE,2011,281106,0.04,0.08,0.79,0.29,Sad,Underrated
+"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Pitbull,hip hop,FALSE,2011,252306,0.16,0.3,0.67,0.53,Happy,Popular
+Love You Like A Love Song,Selena Gomez & The Scene,pop,FALSE,2011,188453,0.05,0.07,0.86,0.92,Cheerful,Popular
+Black and Yellow,Wiz Khalifa,hip hop,TRUE,2011,217666,0.07,0.27,0.68,0.54,Happy,Popular
+Stereo Hearts (feat. Adam Levine),Gym Class Heroes,hip hop,FALSE,2011,210960,0.1,0.27,0.65,0.8,Cheerful,Popular
+Down On Me,Jeremih,hip hop,FALSE,2010,228453,0.11,0.11,0.7,0.59,Happy,Popular
+Loca People - Radio Edit,Sak Noel,Electronic,TRUE,2011,215624,0.06,0.05,0.93,0.7,Happy,Underrated
+No Hands (feat. Roscoe Dash & Wale),Waka Flocka Flame,hip hop,TRUE,2010,263773,0.04,0.24,0.76,0.36,Sad,Popular
+Midnight City,M83,rock,FALSE,2011,243960,0.04,0.07,0.51,0.27,Sad,Popular
+Paradise,Coldplay,rock,FALSE,2011,278719,0.03,0.08,0.45,0.21,Depressed,Popular
+Last Friday Night (T.G.I.F.),Katy Perry,pop,FALSE,2012,230746,0.04,0.67,0.65,0.77,Cheerful,Popular
+Set Fire to the Rain,Adele,pop,FALSE,2011,242973,0.02,0.11,0.6,0.45,Sad,Underrated
+6 Foot 7 Foot,Lil Wayne,hip hop,TRUE,2011,248586,0.3,0.32,0.36,0.61,Happy,Underrated
+Glad You Came,The Wanted,pop,FALSE,2011,197935,0.06,0.11,0.72,0.45,Sad,Popular
+We Found Love,Rihanna,hip hop,FALSE,2011,215226,0.04,0.11,0.74,0.6,Happy,Popular
+Buzzin Remix,Mann,hip hop,TRUE,2011,224333,0.15,0.28,0.69,0.54,Happy,Underrated
+All Of The Lights,Kanye West,hip hop,TRUE,2010,299613,0.07,0.18,0.53,0.22,Depressed,Popular
+Sure Thing,Miguel,pop,FALSE,2010,195373,0.1,0.19,0.68,0.5,Sad,Popular
+Beautiful People,Chris Brown,hip hop,FALSE,2019,225881,0.16,0.08,0.42,0.54,Happy,Underrated
+What the Hell,Avril Lavigne,pop,FALSE,2011,220706,0.05,0.14,0.58,0.88,Cheerful,Popular
+Read All About It,Professor Green,Electronic,TRUE,2011,235735,0.04,0.22,0.66,0.45,Sad,Underrated
+Champion (feat. Chris Brown),Chip,hip hop,TRUE,2011,237293,0.24,0.15,0.42,0.52,Happy,Underrated
+Who Says,Selena Gomez & The Scene,pop,FALSE,2011,195613,0.05,0.15,0.68,0.74,Happy,Popular
+Born This Way,Lady Gaga,pop,FALSE,2011,260253,0.16,0.33,0.59,0.49,Sad,Popular
+Super Bass,Nicki Minaj,hip hop,TRUE,2010,200013,0.21,0.6,0.72,0.67,Happy,Underrated
+Pumped Up Kicks,Foster The People,rock,FALSE,2011,239600,0.03,0.1,0.73,0.97,Cheerful,Popular
+Headlines,Drake,hip hop,TRUE,2011,235986,0.11,0.09,0.64,0.43,Sad,Popular
+Price Tag,Jessie J,hip hop,FALSE,2011,223053,0.18,0.27,0.64,0.67,Happy,Popular
+Dirt Road Anthem,Jason Aldean,country,FALSE,2010,229413,0.04,0.12,0.68,0.66,Happy,Underrated
+Good Life,OneRepublic,pop,TRUE,2009,253306,0.05,0.13,0.63,0.65,Happy,Popular
+The Lazy Song,Bruno Mars,pop,FALSE,2010,189109,0.07,0.1,0.79,0.96,Cheerful,Popular
+Someone Like You,Adele,pop,FALSE,2011,285240,0.03,0.1,0.55,0.29,Sad,Underrated
+Honey Bee,Blake Shelton,country,FALSE,2011,210720,0.04,0.12,0.48,0.72,Happy,Underrated
+Tonight Tonight,Hot Chelle Rae,hip hop,FALSE,2011,200466,0.12,0.16,0.69,0.81,Cheerful,Popular
+Tongue Tied,Grouplove,pop,FALSE,2011,218013,0.04,0.16,0.56,0.37,Sad,Popular
+Raise Your Glass,P!nk,pop,TRUE,2010,202960,0.08,0.03,0.7,0.62,Happy,Popular
+Jar of Hearts,Christina Perri,pop,FALSE,2011,246587,0.03,0.12,0.35,0.09,Depressed,Popular
+Marry You,Bruno Mars,pop,FALSE,2010,230192,0.04,0.1,0.62,0.45,Sad,Popular
+How To Love,Lil Wayne,hip hop,FALSE,2011,240306,0.04,0.11,0.64,0.27,Sad,Underrated
+We Found Love,Rihanna,hip hop,FALSE,2011,215226,0.04,0.11,0.74,0.6,Happy,Popular
+Call Me Maybe,Carly Rae Jepsen,pop,FALSE,2012,193400,0.04,0.11,0.78,0.66,Happy,Popular
+We Are Young (feat. Janelle Monáe),fun.,rock,FALSE,2012,250626,0.08,0.08,0.38,0.74,Happy,Popular
+International Love (feat. Chris Brown),Pitbull,hip hop,FALSE,2011,227280,0.05,0.34,0.67,0.65,Happy,Popular
+In The Dark,DEV,pop,FALSE,2012,226226,0.07,0.33,0.74,0.44,Sad,Underrated
+Skyfall,Adele,pop,FALSE,2012,286480,0.03,0.11,0.35,0.08,Depressed,Popular
+Ni**as In Paris,JAY-Z,hip hop,TRUE,2011,219333,0.31,0.35,0.79,0.78,Cheerful,Popular
+One More Night,Maroon 5,pop,FALSE,2012,219546,0.03,0.08,0.72,0.62,Happy,Popular
+Whistle,Flo Rida,hip hop,FALSE,2012,224653,0.05,0.29,0.75,0.74,Happy,Popular
+Primadonna,MARINA,pop,FALSE,2012,221075,0.03,0.09,0.66,0.43,Sad,Popular
+Mercy,Kanye West,hip hop,TRUE,2012,329320,0.41,0.17,0.56,0.43,Sad,Popular
+Gangnam Style (강남스타일),PSY,pop,FALSE,2012,219493,0.29,0.09,0.73,0.75,Happy,Popular
+Die Young,Kesha,pop,FALSE,2012,211920,0.05,0.22,0.71,0.8,Cheerful,Popular
+Troublemaker (feat. Flo Rida),Olly Murs,pop,FALSE,2012,185586,0.06,0.13,0.76,0.97,Cheerful,Underrated
+BURN IT DOWN,Linkin Park,rock,FALSE,2012,230253,0.05,0.07,0.59,0.59,Happy,Popular
+Locked out of Heaven,Bruno Mars,pop,FALSE,2012,233478,0.04,0.31,0.73,0.87,Cheerful,Popular
+Levels - Radio Edit,Avicii,pop,FALSE,2011,199906,0.03,0.31,0.58,0.46,Sad,Popular
+Good Feeling,Flo Rida,hip hop,FALSE,2012,248133,0.07,0.31,0.71,0.68,Happy,Popular
+Diamonds,Rihanna,hip hop,FALSE,2012,225146,0.05,0.11,0.56,0.39,Sad,Popular
+Part Of Me,Katy Perry,pop,FALSE,2012,216160,0.04,0.07,0.68,0.77,Cheerful,Popular
+Starships,Nicki Minaj,hip hop,TRUE,2012,210626,0.08,0.25,0.75,0.75,Happy,Popular
+One Day / Reckoning Song (Wankelmut Remix) [Radio Edit],Asaf Avidan & the Mojos,pop,FALSE,2012,212360,0.05,0.09,0.82,0.56,Happy,Underrated
+212,Azealia Banks,hip hop,TRUE,2014,204956,0.26,0.08,0.85,0.63,Happy,Underrated
+Payphone,Maroon 5,pop,TRUE,2012,231173,0.04,0.29,0.74,0.55,Happy,Popular
+Impossible,James Arthur,pop,FALSE,2013,209440,0.09,0.11,0.38,0.3,Sad,Popular
+Ai Se Eu Te Pego - Live,Michel Teló,country,FALSE,2012,166866,0.07,0.85,0.68,0.85,Cheerful,Underrated
+Million Voices - Radio Edit,Otto Knows,pop,FALSE,2012,192866,0.04,0.07,0.58,0.07,Depressed,Underrated
+I Love It,Icona Pop,pop,TRUE,2012,156773,0.03,0.17,0.71,0.86,Cheerful,Underrated
+Feel So Close - Radio Edit,Calvin Harris,hip hop,FALSE,2012,206413,0.03,0.2,0.71,0.92,Cheerful,Popular
+Dance Again,Jennifer Lopez,hip hop,FALSE,2012,237266,0.07,0.09,0.8,0.72,Happy,Underrated
+Oblivion,Grimes,pop,FALSE,2012,251266,0.03,0.09,0.7,0.49,Sad,Underrated
+Rumour Has It,Adele,pop,FALSE,2011,223266,0.04,0.17,0.61,0.57,Happy,Underrated
+Paradise,Coldplay,rock,FALSE,2011,278719,0.03,0.08,0.45,0.21,Depressed,Popular
+Hall of Fame (feat. will.i.am),The Script,pop,FALSE,2012,202533,0.06,0.12,0.42,0.63,Happy,Popular
+Don't You Worry Child - Radio Edit,Swedish House Mafia,pop,FALSE,2012,212862,0.05,0.12,0.61,0.44,Sad,Popular
+How to Be a Heartbreaker,MARINA,pop,FALSE,2012,221493,0.05,0.11,0.69,0.85,Cheerful,Underrated
+Titanium (feat. Sia),David Guetta,hip hop,FALSE,2012,245040,0.1,0.13,0.6,0.3,Sad,Popular
+Domino,Jessie J,hip hop,FALSE,2011,231840,0.03,0.04,0.76,0.78,Cheerful,Popular
+Try,P!nk,pop,FALSE,2012,247906,0.03,0.09,0.67,0.55,Happy,Popular
+"Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,hip hop,TRUE,2011,207333,0.14,0.12,0.72,0.53,Happy,Popular
+R.I.P. (feat. Tinie Tempah),Rita Ora,hip hop,FALSE,2012,228026,0.05,0.65,0.6,0.36,Sad,Underrated
+Years - ラジオ・エディット,Alesso,pop,FALSE,2012,195480,0.08,0.17,0.37,0.32,Sad,Underrated
+Battle Scars (feat. Lupe Fiasco),Guy Sebastian,pop,FALSE,2012,250080,0.21,0.1,0.61,0.51,Sad,Underrated
+The One That Got Away,Katy Perry,pop,FALSE,2012,227333,0.04,0.2,0.69,0.86,Cheerful,Popular
+Silhouettes - Original Radio Edit,Avicii,pop,FALSE,2012,211880,0.05,0.12,0.61,0.84,Cheerful,Underrated
+Wild Ones (feat. Sia),Flo Rida,hip hop,FALSE,2012,232946,0.06,0.26,0.61,0.44,Sad,Popular
+What Makes You Beautiful,One Direction,pop,FALSE,2012,199986,0.07,0.06,0.73,0.89,Cheerful,Popular
+Born To Die,Lana Del Rey,pop,FALSE,2012,286253,0.04,0.22,0.18,0.39,Sad,Underrated
+C'Mon,Kesha,pop,FALSE,2012,214333,0.1,0.1,0.56,0.29,Sad,Underrated
+Good Time,Owl City,rock,FALSE,2012,205933,0.14,0.37,0.56,0.68,Happy,Popular
+Drive By,Train,pop,FALSE,2012,195973,0.03,0.08,0.77,0.72,Happy,Popular
+Latch,Disclosure,pop,FALSE,2013,255631,0.17,0.09,0.5,0.52,Happy,Popular
+Live While We're Young,One Direction,pop,FALSE,2012,200186,0.05,0.1,0.66,0.94,Cheerful,Underrated
+Stronger (What Doesn't Kill You),Kelly Clarkson,pop,FALSE,2011,221946,0.05,0.11,0.56,0.68,Happy,Popular
+The Motto,Drake,hip hop,TRUE,2011,181573,0.36,0.11,0.77,0.39,Sad,Popular
+How We Do (Party),Rita Ora,hip hop,TRUE,2012,247026,0.08,0.1,0.74,0.69,Happy,Underrated
+Take Care,Drake,hip hop,TRUE,2011,277386,0.27,0.09,0.63,0.3,Sad,Popular
+Wings,Little Mix,pop,FALSE,2012,219733,0.13,0.29,0.74,0.54,Happy,Underrated
+It Will Rain,Bruno Mars,pop,FALSE,2011,257720,0.05,0.08,0.58,0.48,Sad,Popular
+Royals,Lorde,pop,FALSE,2013,190185,0.12,0.13,0.67,0.34,Sad,Popular
+Radioactive,Imagine Dragons,rock,FALSE,2012,186813,0.06,0.67,0.45,0.24,Depressed,Popular
+Wake Me Up,Avicii,pop,FALSE,2013,247426,0.05,0.16,0.53,0.64,Happy,Underrated
+Locked out of Heaven,Bruno Mars,pop,FALSE,2012,233478,0.04,0.31,0.73,0.87,Cheerful,Popular
+Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,hip hop,TRUE,2012,235613,0.29,0.05,0.78,0.66,Happy,Underrated
+Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Daft Punk,hip hop,FALSE,2013,248413,0.04,0.1,0.79,0.86,Cheerful,Popular
+Scream & Shout,will.i.am,hip hop,TRUE,2013,283400,0.07,0.13,0.77,0.5,Sad,Popular
+Papaoutai,Stromae,pop,FALSE,2013,232146,0.09,0.06,0.73,0.25,Depressed,Underrated
+Get Up (Rattle) - Vocal Edit,Bingo Players,pop,FALSE,2013,166933,0.06,0.3,0.8,0.72,Happy,Underrated
+Another Love,Tom Odell,pop,TRUE,2013,244360,0.04,0.09,0.45,0.13,Depressed,Popular
+Feel This Moment (feat. Christina Aguilera),Pitbull,hip hop,FALSE,2012,229506,0.16,0.34,0.67,0.54,Happy,Popular
+Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,hip hop,FALSE,2012,258342,0.08,0.09,0.64,0.85,Cheerful,Popular
+Animals - Radio Edit,Martin Garrix,pop,FALSE,2013,176117,0.04,0.07,0.59,0.04,Depressed,Underrated
+Love Me Again,John Newman,pop,FALSE,2013,239894,0.04,0.1,0.5,0.21,Depressed,Popular
+Work B**ch,Britney Spears,pop,TRUE,2013,247853,0.15,0.06,0.63,0.85,Cheerful,Underrated
+Sweater Weather,The Neighbourhood,rock,FALSE,2013,240400,0.03,0.1,0.61,0.4,Sad,Popular
+Safe And Sound,Capital Cities,pop,FALSE,2013,192693,0.03,0.09,0.65,0.84,Cheerful,Underrated
+Heart Attack,Demi Lovato,pop,FALSE,2013,210840,0.1,0.24,0.5,0.5,Sad,Popular
+Why'd You Only Call Me When You're High?,Arctic Monkeys,rock,FALSE,2013,161123,0.04,0.1,0.69,0.8,Cheerful,Popular
+Beauty And A Beat,Justin Bieber,pop,FALSE,2012,227986,0.06,0.07,0.6,0.53,Happy,Popular
+The Monster,Eminem,hip hop,TRUE,2013,250188,0.07,0.12,0.78,0.62,Happy,Popular
+Black Skinhead,Kanye West,hip hop,TRUE,2013,188013,0.32,0.18,0.58,0.28,Sad,Underrated
+Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,pop,FALSE,2013,214912,0.06,0.13,0.57,0.11,Depressed,Popular
+Team,Lorde,pop,FALSE,2013,193058,0.09,0.25,0.69,0.43,Sad,Underrated
+Demons,Imagine Dragons,rock,FALSE,2012,177506,0.03,0.27,0.51,0.43,Sad,Popular
+I Knew You Were Trouble.,Taylor Swift,pop,FALSE,2012,219720,0.04,0.03,0.62,0.68,Happy,Popular
+Do I Wanna Know?,Arctic Monkeys,rock,FALSE,2013,272394,0.03,0.22,0.55,0.41,Sad,Popular
+"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",A$AP Rocky,hip hop,TRUE,2013,233786,0.28,0.11,0.85,0.66,Happy,Popular
+Try,P!nk,pop,FALSE,2012,247906,0.03,0.09,0.67,0.55,Happy,Popular
+Sail,AWOLNATION,pop,FALSE,2011,259102,0.06,0.1,0.83,0.24,Depressed,Underrated
+Need U (100%) [feat. A*M*E] - Radio Edit,Duke Dumont,pop,FALSE,2013,174853,0.05,0.35,0.68,0.47,Sad,Underrated
+The Other Side,Jason Derulo,hip hop,FALSE,2013,226986,0.1,0.14,0.56,0.52,Happy,Underrated
+Look Right Through - MK Vocal Edit,Storm Queen,Electronic,FALSE,2014,150400,0.08,0.26,0.83,0.52,Happy,Underrated
+Unconditionally,Katy Perry,pop,FALSE,2013,228878,0.04,0.21,0.56,0.37,Sad,Underrated
+Wings,Birdy,pop,FALSE,2013,252106,0.03,0.16,0.47,0.22,Depressed,Underrated
+Roar,Katy Perry,pop,FALSE,2013,223546,0.04,0.35,0.55,0.46,Sad,Popular
+Ready or Not,Bridgit Mendler,pop,FALSE,2012,200946,0.05,0.11,0.72,0.75,Happy,Popular
+Pompeii,Bastille,pop,FALSE,2013,214147,0.04,0.27,0.68,0.57,Happy,Popular
+Best Song Ever,One Direction,pop,FALSE,2013,200106,0.05,0.08,0.65,0.49,Sad,Popular
+Clarity,Zedd,hip hop,FALSE,2012,271426,0.08,0.08,0.52,0.19,Depressed,Underrated
+Wrecking Ball,Miley Cyrus,pop,FALSE,2013,221360,0.03,0.11,0.53,0.35,Sad,Popular
+Fine China,Chris Brown,hip hop,FALSE,2013,213666,0.06,0.11,0.66,0.61,Happy,Underrated
+Mirrors,Justin Timberlake,pop,FALSE,2013,484146,0.05,0.09,0.57,0.51,Happy,Popular
+Treasure,Bruno Mars,pop,TRUE,2012,178560,0.04,0.32,0.87,0.94,Cheerful,Popular
+Little Talks,Of Monsters and Men,pop,FALSE,2012,266600,0.03,0.15,0.46,0.42,Sad,Popular
+We Can't Stop,Miley Cyrus,pop,FALSE,2013,231240,0.03,0.37,0.61,0.48,Sad,Popular
+Power Trip (feat. Miguel),J. Cole,hip hop,TRUE,2013,241160,0.22,0.43,0.67,0.47,Sad,Underrated
+Still into You,Paramore,pop,FALSE,2013,216013,0.04,0.06,0.6,0.77,Cheerful,Popular
+"Hold On, We're Going Home",Drake,hip hop,FALSE,2013,227880,0.1,0.07,0.77,0.29,Sad,Popular
+Bonfire Heart,James Blunt,pop,FALSE,2013,238000,0.05,0.12,0.58,0.45,Sad,Underrated
+3005,Childish Gambino,hip hop,TRUE,2013,235662,0.29,0.08,0.68,0.66,Happy,Underrated
+Here's to Never Growing Up,Avril Lavigne,pop,TRUE,2013,214080,0.1,0.42,0.48,0.72,Happy,Underrated
+Let Her Go,Passenger,pop,FALSE,2012,252866,0.06,0.1,0.51,0.24,Depressed,Popular
+Stay,Rihanna,hip hop,FALSE,2012,240706,0.03,0.12,0.62,0.13,Depressed,Popular
+When I Was Your Man,Bruno Mars,pop,FALSE,2012,213826,0.04,0.09,0.61,0.39,Sad,Popular
+Happy - From "Despicable Me 2",Pharrell Williams,hip hop,FALSE,2014,232720,0.18,0.09,0.65,0.96,Cheerful,Popular
+Dark Horse,Katy Perry,pop,FALSE,2013,215672,0.05,0.17,0.65,0.35,Sad,Popular
+Collard Greens,ScHoolboy Q,hip hop,TRUE,2014,299960,0.06,0.21,0.83,0.67,Happy,Underrated
+Animals,Maroon 5,pop,FALSE,2014,231013,0.09,0.59,0.28,0.33,Sad,Popular
+Stay With Me,Sam Smith,pop,FALSE,2014,172723,0.04,0.11,0.42,0.18,Depressed,Popular
+Rude,MAGIC!,pop,FALSE,2014,224840,0.04,0.31,0.77,0.93,Cheerful,Popular
+Chandelier,Sia,pop,FALSE,2014,216120,0.05,0.07,0.4,0.57,Happy,Popular
+All of Me,John Legend,pop,FALSE,2013,269560,0.03,0.13,0.42,0.33,Sad,Popular
+Faded,ZHU,Electronic,FALSE,2014,223386,0.05,0.12,0.86,0.6,Happy,Underrated
+All About That Bass,Meghan Trainor,pop,TRUE,2015,187920,0.05,0.12,0.81,0.96,Cheerful,Popular
+Lovers on the Sun (feat. Sam Martin),David Guetta,hip hop,FALSE,2014,203520,0.04,0.38,0.65,0.57,Happy,Underrated
+Habits (Stay High),Tove Lo,pop,FALSE,2014,209160,0.03,0.08,0.73,0.35,Sad,Popular
+Maps,Maroon 5,pop,FALSE,2014,189840,0.03,0.07,0.74,0.89,Cheerful,Underrated
+Bad (feat. Vassy) - Radio Edit,David Guetta,hip hop,FALSE,2014,170625,0.09,0.33,0.61,0.41,Sad,Underrated
+My Love (feat. Jess Glynne),Route 94,pop,FALSE,2014,259934,0.05,0.07,0.81,0.73,Happy,Popular
+Under Control (feat. Hurts),Calvin Harris,hip hop,FALSE,2014,184280,0.08,0.12,0.54,0.51,Happy,Popular
+Don't Tell 'Em,Jeremih,hip hop,TRUE,2015,266840,0.1,0.11,0.86,0.39,Sad,Popular
+Blame (feat. John Newman),Calvin Harris,hip hop,FALSE,2014,212960,0.08,0.34,0.41,0.35,Sad,Popular
+Timber (feat. Ke$ha),Pitbull,hip hop,FALSE,2012,204160,0.1,0.14,0.58,0.79,Cheerful,Popular
+Hot N*gga,Bobby Shmurda,hip hop,TRUE,2014,194561,0.42,0.06,0.79,0.18,Depressed,Popular
+Summer,Calvin Harris,hip hop,FALSE,2014,224506,0.03,0.1,0.6,0.72,Happy,Underrated
+Man Of The Year,ScHoolboy Q,hip hop,TRUE,2014,216013,0.04,0.18,0.74,0.39,Sad,Underrated
+Am I Wrong,Nico & Vinz,hip hop,FALSE,2014,245866,0.03,0.55,0.73,0.78,Cheerful,Popular
+Shower,Becky G,pop,FALSE,2014,206166,0.05,0.29,0.7,0.12,Depressed,Popular
+#SELFIE - Original Mix,The Chainsmokers,pop,FALSE,2014,183750,0.25,0.08,0.79,0.66,Happy,Underrated
+Team,Lorde,pop,FALSE,2013,193058,0.09,0.31,0.69,0.42,Sad,Popular
+Me And My Broken Heart,Rixton,pop,FALSE,2014,193733,0.03,0.13,0.55,0.55,Happy,Popular
+Jubel - Radio Edit,Klingande,pop,FALSE,2013,201626,0.03,0.14,0.69,0.1,Depressed,Underrated
+Waves - Robin Schulz Radio Edit,Mr. Probz,hip hop,FALSE,2014,208133,0.04,0.08,0.83,0.45,Sad,Underrated
+Only Love Can Hurt Like This,Paloma Faith,pop,FALSE,2014,232893,0.08,0.33,0.57,0.3,Sad,Popular
+Break Free,Ariana Grande,pop,FALSE,2014,214840,0.05,0.2,0.69,0.28,Sad,Underrated
+Loyal (feat. Lil Wayne & Tyga),Chris Brown,hip hop,TRUE,2014,264946,0.05,0.19,0.84,0.62,Happy,Popular
+Up (feat. Demi Lovato),Olly Murs,pop,FALSE,2014,224293,0.03,0.1,0.69,0.64,Happy,Underrated
+High (feat. Nicole Millar),Peking Duk,Electronic,FALSE,2014,228000,0.05,0.29,0.53,0.38,Sad,Underrated
+Stolen Dance,Milky Chance,pop,FALSE,2014,313684,0.04,0.08,0.89,0.73,Happy,Popular
+Don't,Ed Sheeran,pop,FALSE,2014,219840,0.07,0.64,0.81,0.85,Cheerful,Popular
+Love Me Harder,Ariana Grande,pop,FALSE,2014,236133,0.03,0.08,0.47,0.24,Depressed,Popular
+Hey Brother,Avicii,pop,FALSE,2013,255093,0.04,0.08,0.55,0.46,Sad,Underrated
+Bang Bang,Jessie J,hip hop,FALSE,2014,199386,0.09,0.38,0.71,0.75,Happy,Popular
+Classic,MKTO,hip hop,FALSE,2012,175426,0.12,0.16,0.72,0.76,Happy,Popular
+Latch,Disclosure,pop,FALSE,2013,255631,0.17,0.09,0.5,0.52,Happy,Popular
+Problem,Ariana Grande,pop,FALSE,2014,193920,0.15,0.16,0.66,0.63,Happy,Popular
+Boom Clap,Charli XCX,pop,FALSE,2014,169866,0.08,0.19,0.66,0.58,Happy,Underrated
+Steal My Girl,One Direction,pop,FALSE,2014,228133,0.03,0.11,0.54,0.55,Happy,Popular
+Red Lights,Tiësto,pop,FALSE,2013,263890,0.04,0.23,0.65,0.55,Happy,Underrated
+She Looks So Perfect,5 Seconds of Summer,pop,FALSE,2014,202496,0.13,0.33,0.49,0.44,Sad,Popular
+Superheroes,The Script,pop,FALSE,2014,245466,0.04,0.07,0.49,0.64,Happy,Popular
+Shake It Off,Taylor Swift,pop,FALSE,2014,219200,0.17,0.33,0.65,0.94,Cheerful,Popular
+Night Changes,One Direction,pop,FALSE,2014,226600,0.04,0.12,0.67,0.37,Sad,Popular
+Heroes (we could be),Alesso,pop,FALSE,2014,209866,0.06,0.24,0.52,0.35,Sad,Underrated
+Wasted,Tiësto,pop,FALSE,2014,188371,0.03,0.2,0.65,0.38,Sad,Underrated
+A Sky Full of Stars,Coldplay,rock,FALSE,2014,267866,0.03,0.21,0.55,0.16,Depressed,Popular
+Rather Be (feat. Jess Glynne),Clean Bandit,pop,FALSE,2014,227833,0.04,0.19,0.8,0.55,Happy,Popular
+Story of My Life,One Direction,pop,FALSE,2013,245493,0.05,0.12,0.6,0.29,Sad,Popular
+Little Do You Know,Alex & Sierra,pop,FALSE,2014,185200,0.03,0.19,0.5,0.37,Sad,Popular
+Riptide,Vance Joy,rock,FALSE,2014,204280,0.04,0.15,0.48,0.51,Happy,Popular
+Sugar,Maroon 5,pop,TRUE,2014,235493,0.03,0.09,0.74,0.89,Cheerful,Underrated
+Geronimo,Sheppard,pop,FALSE,2014,218227,0.08,0.12,0.71,0.44,Sad,Underrated
+Wrapped Up (feat. Travie McCoy),Olly Murs,pop,FALSE,2014,185640,0.05,0.15,0.79,0.95,Cheerful,Underrated
+Trumpets,Jason Derulo,hip hop,FALSE,2013,217306,0.24,0.1,0.63,0.64,Happy,Underrated
+Bed Of Lies,Nicki Minaj,hip hop,TRUE,2014,269946,0.19,0.11,0.72,0.12,Depressed,Underrated
+Jealous - Remix,Nick Jonas,pop,TRUE,2014,222213,0.07,0.45,0.69,0.5,Sad,Underrated
+Uptown Funk (feat. Bruno Mars),Mark Ronson,pop,TRUE,2015,269666,0.08,0.03,0.86,0.93,Cheerful,Popular
+Thinking out Loud,Ed Sheeran,pop,FALSE,2014,281560,0.03,0.18,0.78,0.59,Happy,Popular
+See You Again (feat. Charlie Puth),Wiz Khalifa,hip hop,FALSE,2015,229525,0.08,0.06,0.69,0.28,Sad,Popular
+What Do You Mean?,Justin Bieber,pop,FALSE,2015,205680,0.1,0.08,0.85,0.79,Cheerful,Popular
+Lean On (feat. MØ & DJ Snake),Major Lazer,hip hop,FALSE,2015,176561,0.06,0.57,0.72,0.27,Sad,Popular
+Earned It (Fifty Shades Of Grey) - From The "Fifty Shades Of Grey" Soundtrack,The Weeknd,pop,FALSE,2014,252226,0.03,0.1,0.66,0.43,Sad,Popular
+Love Me Like You Do - From "Fifty Shades Of Grey",Ellie Goulding,pop,FALSE,2015,252534,0.05,0.13,0.26,0.28,Sad,Popular
+Outside (feat. Ellie Goulding),Calvin Harris,hip hop,FALSE,2014,227266,0.04,0.32,0.65,0.42,Sad,Popular
+"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",David Guetta,hip hop,FALSE,2014,192560,0.15,0.33,0.6,0.53,Happy,Popular
+Cool for the Summer,Demi Lovato,pop,TRUE,2015,214746,0.04,0.09,0.59,0.32,Sad,Underrated
+Blank Space,Taylor Swift,pop,FALSE,2014,231826,0.05,0.09,0.76,0.57,Happy,Popular
+The Hills,The Weeknd,pop,TRUE,2015,242253,0.05,0.14,0.59,0.14,Depressed,Popular
+Daddy Issues,The Neighbourhood,rock,FALSE,2015,260173,0.03,0.12,0.59,0.34,Sad,Popular
+The Nights,Avicii,pop,FALSE,2014,176658,0.04,0.25,0.53,0.65,Happy,Popular
+Ghost Town,Adam Lambert,pop,TRUE,2015,208330,0.05,0.17,0.7,0.27,Sad,Underrated
+GDFR (feat. Sage the Gemini & Lookas),Flo Rida,hip hop,FALSE,2015,190185,0.07,0.07,0.66,0.69,Happy,Underrated
+Sugar (feat. Francesco Yates),Robin Schulz,pop,FALSE,2015,219043,0.06,0.16,0.64,0.64,Happy,Popular
+How Deep Is Your Love,Calvin Harris,hip hop,FALSE,2015,212640,0.07,0.39,0.74,0.34,Sad,Popular
+Centuries,Fall Out Boy,rock,FALSE,2015,228360,0.07,0.1,0.39,0.56,Happy,Popular
+Chill Bill (feat. J. Davi$ & Spooks),Rob $tone,hip hop,TRUE,2016,177184,0.15,0.09,0.89,0.23,Depressed,Popular
+Are You With Me - Radio Edit,Lost Frequencies,pop,FALSE,2014,138842,0.03,0.13,0.78,0.41,Sad,Underrated
+Stressed Out,Twenty One Pilots,rock,FALSE,2015,202333,0.14,0.06,0.73,0.65,Happy,Popular
+Worth It (feat. Kid Ink),Fifth Harmony,pop,FALSE,2015,224573,0.09,0.12,0.88,0.59,Happy,Popular
+Like I Can,Sam Smith,pop,FALSE,2014,167065,0.04,0.12,0.66,0.48,Sad,Popular
+Light It Up (feat. Nyla & Fuse ODG) - Remix,Major Lazer,hip hop,FALSE,2015,166138,0.07,0.23,0.75,0.75,Happy,Underrated
+Intoxicated - New Radio Mix,Martin Solveig,pop,FALSE,2015,159693,0.04,0.08,0.8,0.55,Happy,Underrated
+Waiting For Love,Avicii,pop,FALSE,2015,230613,0.05,0.2,0.58,0.61,Happy,Popular
+Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson),Felix Jaehn,hip hop,FALSE,2018,186146,0.03,0.07,0.78,0.48,Sad,Popular
+Wildest Dreams,Taylor Swift,pop,FALSE,2014,220440,0.07,0.11,0.55,0.47,Sad,Popular
+In The Night,The Weeknd,pop,TRUE,2015,235653,0.13,0.05,0.48,0.51,Sad,Underrated
+Time of Our Lives,Pitbull,hip hop,TRUE,2014,229360,0.06,0.69,0.72,0.72,Happy,Popular
+Runaway (U & I),Galantis,pop,FALSE,2015,227073,0.05,0.09,0.51,0.38,Sad,Popular
+Bitch Better Have My Money,Rihanna,hip hop,TRUE,2015,219305,0.06,0.26,0.78,0.4,Sad,Popular
+Lush Life,Zara Larsson,pop,FALSE,2015,202213,0.05,0.19,0.66,0.79,Cheerful,Underrated
+Drag Me Down,One Direction,pop,FALSE,2015,192120,0.04,0.07,0.73,0.6,Happy,Popular
+Antidote,Travis Scott,hip hop,TRUE,2015,262693,0.03,0.12,0.71,0.13,Depressed,Popular
+King,Years & Years,pop,FALSE,2015,215360,0.04,0.38,0.56,0.47,Sad,Underrated
+Do It Again,Pia Mia,pop,TRUE,2015,207746,0.05,0.09,0.71,0.41,Sad,Popular
+My House,Flo Rida,hip hop,FALSE,2015,192190,0.05,0.13,0.69,0.74,Happy,Popular
+Watch Me (Whip / Nae Nae),Silentó,hip hop,FALSE,2015,185131,0.13,0.33,0.82,0.96,Cheerful,Underrated
+Never Forget You,Zara Larsson,pop,FALSE,2017,213427,0.05,0.27,0.58,0.28,Sad,Popular
+oui,Jeremih,hip hop,FALSE,2015,238320,0.1,0.11,0.42,0.6,Happy,Popular
+Hotline Bling,Drake,hip hop,FALSE,2016,267066,0.06,0.05,0.89,0.55,Happy,Popular
+679 (feat. Remy Boyz),Fetty Wap,hip hop,TRUE,2015,196693,0.32,0.63,0.62,0.6,Happy,Popular
+Love Me Harder,Ariana Grande,pop,FALSE,2014,236133,0.03,0.08,0.47,0.24,Depressed,Popular
+Can't Feel My Face,The Weeknd,pop,FALSE,2015,213520,0.04,0.11,0.71,0.58,Happy,Popular
+Renegades,X Ambassadors,hip hop,FALSE,2015,195200,0.09,0.23,0.53,0.53,Happy,Popular
+Locked Away (feat. Adam Levine),R. City,pop,FALSE,2015,227480,0.07,0.05,0.51,0.55,Happy,Popular
+Stole the Show,Kygo,pop,FALSE,2016,223186,0.23,0.32,0.64,0.48,Sad,Popular
+The Less I Know The Better,Tame Impala,metal,TRUE,2015,216320,0.03,0.17,0.64,0.79,Cheerful,Popular
+Good For You,Selena Gomez,pop,TRUE,2015,221560,0.07,0.07,0.6,0.22,Depressed,Underrated
+Take Me To Church,Hozier,Folk,FALSE,2014,241688,0.05,0.12,0.57,0.44,Sad,Popular
+Style,Taylor Swift,pop,FALSE,2014,231000,0.04,0.12,0.59,0.49,Sad,Popular
+Here,Alessia Cara,pop,FALSE,2015,199453,0.16,0.08,0.38,0.36,Sad,Underrated
+Bang My Head (feat. Sia & Fetty Wap),David Guetta,hip hop,FALSE,2015,193333,0.08,0.1,0.6,0.59,Happy,Underrated
+I Don't Fuck With You,Big Sean,hip hop,TRUE,2015,284386,0.06,0.33,0.82,0.4,Sad,Popular
+Firestone,Kygo,pop,FALSE,2016,271640,0.04,0.1,0.7,0.41,Sad,Popular
+Jumpman,Drake,hip hop,TRUE,2015,205879,0.2,0.34,0.85,0.65,Happy,Underrated
+Stitches,Shawn Mendes,pop,FALSE,2015,206880,0.07,0.05,0.75,0.75,Happy,Popular
+Where Are Ü Now (with Justin Bieber),Jack Ü,pop,FALSE,2015,250285,0.06,0.08,0.43,0.2,Depressed,Popular
+On My Mind,Ellie Goulding,pop,FALSE,2015,213445,0.05,0.09,0.7,0.74,Happy,Underrated
+Don't,Bryson Tiller,hip hop,TRUE,2015,198293,0.2,0.1,0.77,0.19,Depressed,Popular
+"Flex (Ooh, Ooh, Ooh)",Rich Homie Quan,hip hop,TRUE,2015,176674,0.05,0.34,0.68,0.88,Cheerful,Underrated
+I Want You To Know,Zedd,hip hop,FALSE,2015,238800,0.07,0.28,0.56,0.38,Sad,Underrated
+Electric Love,BØRNS,rock,FALSE,2015,218173,0.09,0.26,0.37,0.61,Happy,Underrated
+Sorry,Justin Bieber,pop,FALSE,2015,200786,0.05,0.3,0.65,0.41,Sad,Popular
+One Last Time,Ariana Grande,pop,FALSE,2014,197266,0.03,0.1,0.63,0.1,Depressed,Popular
+Black Magic,Little Mix,pop,FALSE,2015,211773,0.06,0.32,0.78,0.84,Cheerful,Underrated
+Perfect,One Direction,pop,FALSE,2015,230333,0.08,0.12,0.65,0.4,Sad,Popular
+El Perdón - Forgiveness,Nicky Jam,latin,FALSE,2017,206666,0.04,0.09,0.74,0.66,Happy,Underrated
+Starboy,The Weeknd,pop,TRUE,2016,230453,0.28,0.13,0.68,0.54,Happy,Underrated
+One Dance,Drake,hip hop,FALSE,2016,173986,0.05,0.33,0.79,0.37,Sad,Popular
+Love Yourself,Justin Bieber,pop,FALSE,2015,233720,0.44,0.28,0.61,0.52,Happy,Underrated
+Closer,The Chainsmokers,pop,FALSE,2016,244960,0.03,0.11,0.75,0.66,Happy,Popular
+Hello,Adele,pop,FALSE,2015,295502,0.03,0.09,0.47,0.29,Sad,Underrated
+Tuesday (feat. Danelle Sandoval),Burak Yeter,Electronic,FALSE,2016,241874,0.07,0.05,0.84,0.68,Happy,Popular
+Work,Rihanna,hip hop,TRUE,2016,219320,0.09,0.09,0.73,0.56,Happy,Popular
+Hymn for the Weekend,Coldplay,rock,FALSE,2015,258266,0.04,0.33,0.49,0.41,Sad,Popular
+Sorry,Justin Bieber,pop,FALSE,2015,200786,0.05,0.3,0.65,0.41,Sad,Popular
+CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS"),Justin Timberlake,pop,FALSE,2016,236001,0.08,0.19,0.67,0.7,Happy,Popular
+Wait a Minute!,WILLOW,pop,FALSE,2015,196520,0.03,0.09,0.76,0.67,Happy,Popular
+"Me, Myself & I",G-Eazy,hip hop,TRUE,2015,251466,0.1,0.16,0.76,0.39,Sad,Popular
+Hurts So Good,Astrid S,rock,FALSE,2016,208728,0.05,0.1,0.67,0.38,Sad,Underrated
+"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",Lil Wayne,hip hop,TRUE,2016,243490,0.32,0.65,0.5,0.74,Happy,Popular
+Heathens,Twenty One Pilots,rock,FALSE,2016,195920,0.03,0.11,0.73,0.55,Happy,Popular
+Low Life (feat. The Weeknd),Future,hip hop,TRUE,2016,313546,0.07,0.15,0.72,0.1,Depressed,Popular
+Don't Let Me Down,The Chainsmokers,pop,FALSE,2016,208373,0.17,0.14,0.53,0.42,Sad,Popular
+Hear Me Now,Alok,pop,FALSE,2016,192846,0.04,0.09,0.79,0.46,Sad,Underrated
+Sex,Cheat Codes,pop,FALSE,2016,228361,0.17,0.14,0.51,0.21,Depressed,Underrated
+In the Name of Love,Martin Garrix,pop,FALSE,2016,195706,0.04,0.45,0.5,0.17,Depressed,Popular
+Faded,Alan Walker,Electronic,FALSE,2018,212106,0.05,0.11,0.47,0.16,Depressed,Popular
+Cool Girl,Tove Lo,pop,TRUE,2016,197815,0.11,0.13,0.67,0.23,Depressed,Underrated
+Let Me Love You,DJ Snake,hip hop,FALSE,2016,205946,0.03,0.14,0.65,0.16,Depressed,Popular
+This Is What You Came For (feat. Rihanna),Calvin Harris,hip hop,FALSE,2016,222160,0.03,0.15,0.63,0.47,Sad,Popular
+I Took A Pill In Ibiza - Seeb Remix,Mike Posner,hip hop,TRUE,2016,197933,0.11,0.08,0.66,0.71,Happy,Popular
+Needed Me,Rihanna,hip hop,TRUE,2016,191600,0.24,0.08,0.67,0.3,Sad,Popular
+Side To Side,Ariana Grande,pop,TRUE,2016,226160,0.25,0.29,0.65,0.6,Happy,Underrated
+I Know What You Did Last Summer,Shawn Mendes,pop,FALSE,2015,223853,0.09,0.15,0.69,0.74,Happy,Popular
+My Way,Calvin Harris,hip hop,FALSE,2016,219159,0.04,0.16,0.82,0.54,Happy,Popular
+Ride,Twenty One Pilots,rock,FALSE,2015,214506,0.04,0.11,0.65,0.57,Happy,Popular
+My House,Flo Rida,hip hop,FALSE,2015,192190,0.05,0.13,0.69,0.74,Happy,Popular
+Dangerous Woman,Ariana Grande,pop,FALSE,2016,235946,0.04,0.35,0.68,0.3,Sad,Underrated
+We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,pop,FALSE,2016,217706,0.13,0.18,0.73,0.35,Sad,Popular
+I'm In Control,AlunaGeorge,pop,FALSE,2016,209425,0.03,0.15,0.73,0.67,Happy,Underrated
+Never Forget You,MNEK,Electronic,FALSE,2015,213427,0.05,0.27,0.58,0.28,Sad,Underrated
+Hotline Bling,Drake,hip hop,FALSE,2016,267066,0.06,0.05,0.9,0.54,Happy,Underrated
+Into You,Ariana Grande,pop,FALSE,2016,244453,0.11,0.15,0.62,0.37,Sad,Underrated
+Treat You Better,Shawn Mendes,pop,FALSE,2017,187973,0.34,0.11,0.44,0.75,Happy,Popular
+Say It,Tory Lanez,hip hop,TRUE,2016,237786,0.06,0.12,0.55,0.25,Depressed,Popular
+Adventure of a Lifetime,Coldplay,rock,FALSE,2015,263786,0.04,0.15,0.64,0.53,Happy,Popular
+This Girl - Kungs Vs. Cookin' On 3 Burners,Kungs,pop,FALSE,2016,195561,0.04,0.25,0.79,0.5,Sad,Underrated
+Renegades,X Ambassadors,hip hop,FALSE,2015,195200,0.09,0.23,0.53,0.53,Happy,Popular
+Cake By The Ocean,DNCE,pop,TRUE,2016,219146,0.05,0.04,0.77,0.9,Cheerful,Popular
+Papercuts (feat. Vera Blue),Illy,hip hop,FALSE,2016,255889,0.25,0.26,0.37,0.47,Sad,Underrated
+Stole the Show,Kygo,pop,FALSE,2016,222813,0.17,0.15,0.68,0.48,Sad,Underrated
+Work from Home (feat. Ty Dolla $ign),Fifth Harmony,pop,FALSE,2016,214480,0.04,0.06,0.8,0.59,Happy,Popular
+Middle,DJ Snake,hip hop,FALSE,2016,220573,0.04,0.05,0.61,0.21,Depressed,Underrated
+Sweet Lovin' - Radio Edit,Sigala,pop,FALSE,2015,202149,0.05,0.34,0.68,0.67,Happy,Underrated
+Jumpman,Drake,hip hop,TRUE,2015,205879,0.19,0.33,0.85,0.66,Happy,Popular
+Perfect Strangers,Jonas Blue,pop,FALSE,2016,196613,0.05,0.28,0.74,0.71,Happy,Underrated
+Cold Water (feat. Justin Bieber & MØ),Major Lazer,hip hop,FALSE,2016,185351,0.04,0.16,0.61,0.5,Sad,Underrated
+Roses,The Chainsmokers,pop,FALSE,2015,226738,0.06,0.31,0.71,0.34,Sad,Popular
+LUV,Tory Lanez,hip hop,TRUE,2016,228640,0.11,0.12,0.69,0.25,Depressed,Underrated
+Don't,Bryson Tiller,hip hop,TRUE,2015,198293,0.2,0.1,0.77,0.19,Depressed,Popular
+Fast Car,Jonas Blue,pop,FALSE,2015,212424,0.08,0.31,0.46,0.58,Happy,Underrated
+Never Be Like You,Flume,Electronic,TRUE,2016,233337,0.06,0.16,0.44,0.25,Depressed,Underrated
+"i hate u, i love u (feat. olivia o'brien)",Garrett Nash,hip hop,TRUE,2016,251033,0.3,0.1,0.49,0.18,Depressed,Popular
+"Sit Still, Look Pretty",Daya,rock,FALSE,2016,202221,0.27,0.18,0.66,0.54,Happy,Underrated
+Say It,Flume,Electronic,TRUE,2016,262521,0.03,0.06,0.58,0.27,Sad,Underrated
+Exchange,Bryson Tiller,hip hop,TRUE,2015,194613,0.19,0.14,0.53,0.28,Sad,Popular
+Shout Out to My Ex,Little Mix,pop,FALSE,2017,246240,0.09,0.11,0.77,0.8,Cheerful,Underrated
+Ophelia,The Lumineers,pop,FALSE,2016,160097,0.03,0.09,0.66,0.62,Happy,Underrated
+Pink + White,Frank Ocean,hip hop,FALSE,2016,184516,0.1,0.42,0.54,0.55,Happy,Popular
+Too Good,Drake,hip hop,TRUE,2016,263373,0.1,0.1,0.79,0.4,Sad,Popular
+Shape of You,Ed Sheeran,pop,FALSE,2017,233712,0.08,0.09,0.83,0.93,Cheerful,Popular
+No Lie,Sean Paul,hip hop,FALSE,2018,221176,0.12,0.21,0.74,0.46,Sad,Popular
+Despacito (Featuring Daddy Yankee),Luis Fonsi,pop,FALSE,2017,228200,0.17,0.11,0.66,0.85,Cheerful,Underrated
+Too Good At Goodbyes,Sam Smith,pop,FALSE,2017,201000,0.04,0.17,0.68,0.48,Sad,Popular
+Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,pop,FALSE,2016,251088,0.05,0.18,0.72,0.74,Happy,Popular
+Havana (feat. Young Thug),Camila Cabello,pop,FALSE,2017,216896,0.03,0.1,0.77,0.42,Sad,Underrated
+Thunder,Imagine Dragons,rock,FALSE,2017,187146,0.05,0.16,0.6,0.3,Sad,Underrated
+Something Just Like This,The Chainsmokers,pop,FALSE,2017,247160,0.03,0.16,0.62,0.45,Sad,Popular
+Perfect,Ed Sheeran,pop,FALSE,2017,263400,0.02,0.11,0.6,0.17,Depressed,Popular
+Little Dark Age,MGMT,rock,FALSE,2018,299960,0.04,0.1,0.71,0.62,Happy,Popular
+goosebumps,Travis Scott,hip hop,TRUE,2016,243836,0.05,0.15,0.84,0.43,Sad,Popular
+Bored,Billie Eilish,pop,FALSE,2017,180933,0.05,0.08,0.61,0.11,Depressed,Popular
+Mask Off,Future,hip hop,TRUE,2017,204600,0.43,0.17,0.83,0.28,Sad,Popular
+Him & I,G-Eazy,hip hop,TRUE,2017,268866,0.09,0.31,0.59,0.19,Depressed,Underrated
+Cold (feat. Future),Maroon 5,pop,TRUE,2017,234308,0.11,0.04,0.7,0.51,Sad,Underrated
+Swang,Rae Sremmurd,hip hop,TRUE,2016,208120,0.06,0.1,0.68,0.17,Depressed,Popular
+Save That Shit,Lil Peep,hip hop,TRUE,2017,231546,0.03,0.42,0.53,0.15,Depressed,Popular
+Plain Jane,A$AP Ferg,hip hop,TRUE,2017,173600,0.28,0.09,0.8,0.52,Happy,Popular
+Unforgettable,French Montana,hip hop,TRUE,2017,233901,0.12,0.1,0.73,0.73,Happy,Popular
+Bank Account,21 Savage,hip hop,TRUE,2017,220306,0.35,0.09,0.88,0.38,Sad,Popular
+More Than You Know,Axwell /\ Ingrosso,pop,FALSE,2017,203000,0.03,0.29,0.65,0.53,Happy,Underrated
+Dusk Till Dawn (feat. Sia) - Radio Edit,ZAYN,pop,FALSE,2017,239000,0.04,0.11,0.26,0.1,Depressed,Popular
+Mi Gente,J Balvin,latin,FALSE,2017,189029,0.09,0.13,0.55,0.31,Sad,Underrated
+You Don't Know Me - Radio Edit,Jax Jones,hip hop,TRUE,2016,213946,0.14,0.19,0.88,0.68,Happy,Underrated
+Black Beatles,Rae Sremmurd,hip hop,TRUE,2016,291893,0.06,0.13,0.79,0.36,Sad,Popular
+BUTTERFLY EFFECT,Travis Scott,hip hop,FALSE,2017,190677,0.05,0.11,0.76,0.18,Depressed,Underrated
+XO Tour Llif3,Lil Uzi Vert,hip hop,TRUE,2017,182706,0.23,0.11,0.73,0.4,Sad,Popular
+Whatever It Takes,Imagine Dragons,rock,FALSE,2017,201240,0.03,0.12,0.67,0.56,Happy,Popular
+Chill Bill (feat. J. Davi$ & Spooks),Rob $tone,hip hop,TRUE,2016,177184,0.15,0.09,0.89,0.23,Depressed,Popular
+Swalla (feat. Nicki Minaj & Ty Dolla $ign),Jason Derulo,hip hop,TRUE,2017,216408,0.11,0.19,0.7,0.78,Cheerful,Popular
+No Limit,G-Eazy,hip hop,TRUE,2017,245386,0.24,0.09,0.84,0.41,Sad,Underrated
+Magnolia,Playboi Carti,hip hop,TRUE,2017,181812,0.29,0.35,0.79,0.44,Sad,Popular
+Hold On,Chord Overstreet,pop,FALSE,2017,198853,0.05,0.08,0.62,0.17,Depressed,Popular
+Believer,Imagine Dragons,rock,FALSE,2017,204346,0.11,0.14,0.78,0.71,Happy,Underrated
+Criminal,Natti Natasha,pop,FALSE,2017,232549,0.06,0.26,0.81,0.84,Cheerful,Popular
+HUMBLE.,Kendrick Lamar,hip hop,TRUE,2017,177000,0.09,0.1,0.91,0.42,Sad,Underrated
+Attention,Charlie Puth,pop,FALSE,2017,211475,0.04,0.08,0.77,0.78,Cheerful,Underrated
+Human,Rag'n'Bone Man,R&B,FALSE,2017,200186,0.3,0.17,0.6,0.55,Happy,Popular
+do re mi,blackbear,hip hop,TRUE,2017,212027,0.05,0.12,0.75,0.17,Depressed,Underrated
+Look What You Made Me Do,Taylor Swift,pop,FALSE,2017,211853,0.12,0.13,0.77,0.51,Sad,Popular
+Tunnel Vision,Kodak Black,hip hop,TRUE,2017,268186,0.29,0.12,0.5,0.23,Depressed,Underrated
+DNA.,Kendrick Lamar,hip hop,TRUE,2017,185946,0.36,0.09,0.64,0.39,Sad,Underrated
+Drowning (feat. Kodak Black),A Boogie Wit da Hoodie,hip hop,TRUE,2017,209269,0.06,0.12,0.84,0.81,Cheerful,Underrated
+Jocelyn Flores,XXXTENTACION,hip hop,TRUE,2017,119133,0.24,0.3,0.87,0.44,Sad,Popular
+Bad and Boujee (feat. Lil Uzi Vert),Migos,hip hop,TRUE,2017,343150,0.24,0.12,0.93,0.17,Depressed,Popular
+Scared to Be Lonely,Martin Garrix,pop,FALSE,2017,220883,0.06,0.26,0.58,0.2,Depressed,Popular
+Mama,Jonas Blue,pop,FALSE,2017,181614,0.04,0.05,0.74,0.55,Happy,Underrated
+Solo Dance,Martin Jensen,pop,FALSE,2016,174933,0.05,0.19,0.74,0.36,Sad,Underrated
+...Ready For It?,Taylor Swift,pop,FALSE,2017,208186,0.14,0.2,0.61,0.42,Sad,Popular
+There's Nothing Holdin' Me Back,Shawn Mendes,pop,FALSE,2017,199440,0.06,0.09,0.86,0.97,Cheerful,Underrated
+All Night,The Vamps,pop,FALSE,2017,197640,0.04,0.33,0.54,0.51,Sad,Popular
+Wild Thoughts (feat. Rihanna & Bryson Tiller),DJ Khaled,hip hop,TRUE,2017,204173,0.07,0.12,0.67,0.63,Happy,Popular
+Congratulations,Post Malone,hip hop,TRUE,2016,220293,0.04,0.25,0.63,0.49,Sad,Popular
+Without You (feat. Sandro Cavazza),Avicii,pop,TRUE,2017,181672,0.04,0.05,0.66,0.3,Sad,Popular
+Symphony (feat. Zara Larsson),Clean Bandit,pop,FALSE,2017,214866,0.04,0.23,0.72,0.5,Sad,Underrated
+"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Calvin Harris,hip hop,TRUE,2017,223413,0.06,0.09,0.89,0.87,Cheerful,Popular
+Glorious (feat. Skylar Grey),Macklemore,hip hop,TRUE,2017,220454,0.05,0.11,0.73,0.36,Sad,Popular
+NUMB,Hayden James,pop,TRUE,2019,217296,0.04,0.09,0.62,0.4,Sad,Underrated
+Strip That Down,Liam Payne,pop,FALSE,2017,204502,0.05,0.08,0.87,0.53,Happy,Underrated
+Passionfruit,Drake,hip hop,TRUE,2017,298940,0.04,0.11,0.81,0.36,Sad,Underrated
+Friends (with BloodPop®),Justin Bieber,pop,FALSE,2017,189466,0.04,0.31,0.74,0.65,Happy,Underrated
+I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)",ZAYN,pop,FALSE,2016,245200,0.06,0.33,0.74,0.09,Depressed,Underrated
+Scars To Your Beautiful,Alessia Cara,pop,FALSE,2016,230226,0.27,0.11,0.32,0.45,Sad,Popular
+Call on Me - Ryan Riback Remix,Starley,pop,FALSE,2016,222040,0.04,0.16,0.67,0.72,Happy,Underrated
+Weak,AJR,rock,FALSE,2017,201160,0.04,0.18,0.67,0.68,Happy,Underrated
+Lust for Life (with The Weeknd),Lana Del Rey,pop,FALSE,2017,264011,0.06,0.36,0.5,0.3,Sad,Underrated
+Reggaetón Lento (Remix),CNCO,pop,FALSE,2017,188786,0.08,0.1,0.62,0.65,Happy,Underrated
+I Feel It Coming,The Weeknd,pop,FALSE,2016,269186,0.12,0.07,0.77,0.59,Happy,Popular
+Paris,The Chainsmokers,pop,FALSE,2017,221506,0.03,0.09,0.65,0.22,Depressed,Popular
+Mercy,Shawn Mendes,pop,FALSE,2017,208733,0.08,0.11,0.56,0.38,Sad,Underrated
+Lonely Together (feat. Rita Ora),Avicii,pop,FALSE,2017,181812,0.06,0.07,0.66,0.27,Sad,Underrated
+24K Magic,Bruno Mars,pop,FALSE,2016,225983,0.08,0.15,0.82,0.63,Happy,Popular
+Homemade Dynamite - REMIX,Lorde,pop,TRUE,2017,214254,0.08,0.13,0.78,0.18,Depressed,Underrated
+It Ain't Me (with Selena Gomez),Kygo,pop,FALSE,2017,220780,0.07,0.09,0.64,0.52,Happy,Popular
+God's Plan,Drake,hip hop,TRUE,2018,198973,0.11,0.55,0.75,0.36,Sad,Popular
+rockstar (feat. 21 Savage),Post Malone,hip hop,TRUE,2018,218146,0.07,0.13,0.59,0.13,Depressed,Popular
+Ric Flair Drip (with Metro Boomin),Offset,hip hop,TRUE,2017,172800,0.21,0.11,0.88,0.33,Sad,Popular
+Him & I (with Halsey),G-Eazy,hip hop,TRUE,2017,268866,0.09,0.31,0.59,0.19,Depressed,Popular
+In My Mind,Dynoro,pop,FALSE,2018,184560,0.15,0.12,0.69,0.16,Depressed,Popular
+Lucid Dreams,Juice WRLD,hip hop,TRUE,2018,239835,0.2,0.34,0.51,0.22,Depressed,Popular
+The Middle,Zedd,hip hop,FALSE,2018,184732,0.04,0.11,0.75,0.44,Sad,Popular
+FRIENDS,Marshmello,pop,TRUE,2018,202620,0.05,0.13,0.63,0.53,Happy,Popular
+I Like It,Cardi B,hip hop,TRUE,2018,253390,0.13,0.37,0.82,0.65,Happy,Popular
+Moonlight,XXXTENTACION,hip hop,TRUE,2018,135090,0.08,0.1,0.92,0.71,Happy,Popular
+no tears left to cry,Ariana Grande,pop,FALSE,2018,205920,0.06,0.29,0.7,0.35,Sad,Popular
+Mo Bamba,Sheck Wes,hip hop,TRUE,2018,183906,0.03,0.25,0.73,0.26,Sad,Popular
+One Kiss (with Dua Lipa),Calvin Harris,hip hop,FALSE,2018,214846,0.11,0.08,0.79,0.59,Happy,Popular
+Taste (feat. Offset),Tyga,hip hop,TRUE,2018,232959,0.12,0.1,0.88,0.34,Sad,Popular
+SICKO MODE,Travis Scott,hip hop,TRUE,2018,312820,0.22,0.12,0.83,0.45,Sad,Popular
+Natural,Imagine Dragons,rock,FALSE,2018,189466,0.04,0.08,0.7,0.22,Depressed,Popular
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,hip hop,TRUE,2018,212500,0.23,0.06,0.84,0.62,Happy,Popular
+lovely (with Khalid),Billie Eilish,pop,FALSE,2018,200185,0.03,0.1,0.35,0.12,Depressed,Popular
+Walk It Talk It,Migos,hip hop,TRUE,2018,276147,0.18,0.11,0.91,0.4,Sad,Popular
+Nonstop,Drake,hip hop,TRUE,2018,238614,0.12,0.1,0.91,0.42,Sad,Popular
+FEFE,6ix9ine,hip hop,TRUE,2018,179404,0.41,0.14,0.93,0.38,Sad,Underrated
+Call Out My Name,The Weeknd,pop,FALSE,2018,228373,0.04,0.31,0.46,0.18,Depressed,Popular
+Te Boté - Remix,Nio Garcia,latin,TRUE,2018,417920,0.21,0.06,0.9,0.44,Sad,Popular
+MotorSport,Migos,hip hop,TRUE,2018,303076,0.18,0.33,0.9,0.19,Depressed,Popular
+X,Nicky Jam,latin,FALSE,2019,172854,0.06,0.3,0.59,0.69,Happy,Popular
+SAD!,XXXTENTACION,hip hop,TRUE,2018,166605,0.15,0.12,0.74,0.47,Sad,Popular
+Plug Walk,Rich The Kid,hip hop,TRUE,2018,175229,0.14,0.11,0.88,0.16,Depressed,Popular
+All The Stars (with SZA),Kendrick Lamar,hip hop,TRUE,2018,232186,0.06,0.09,0.7,0.55,Happy,Popular
+God is a woman,Ariana Grande,pop,TRUE,2018,197546,0.06,0.24,0.6,0.27,Sad,Popular
+Nevermind,Dennis Lloyd,pop,FALSE,2017,156600,0.2,0.41,0.6,0.08,Depressed,Popular
+we fell in love in october,girl in red,pop,FALSE,2018,184153,0.03,0.16,0.57,0.24,Depressed,Popular
+Wolves,Selena Gomez,pop,FALSE,2017,197993,0.04,0.2,0.72,0.31,Sad,Popular
+Jackie Chan,Tiësto,pop,TRUE,2018,215759,0.05,0.06,0.75,0.69,Happy,Popular
+Silence,Marshmello,pop,FALSE,2017,180822,0.09,0.17,0.52,0.29,Sad,Popular
+Body (feat. brando),Loud Luxury,pop,FALSE,2017,163216,0.04,0.05,0.75,0.58,Happy,Underrated
+Let You Down,NF,hip hop,FALSE,2017,212120,0.12,0.18,0.66,0.46,Sad,Popular
+changes,XXXTENTACION,hip hop,FALSE,2018,121886,0.03,0.1,0.67,0.52,Happy,Popular
+Bodak Yellow,Cardi B,hip hop,TRUE,2018,223712,0.1,0.23,0.93,0.49,Sad,Popular
+Yes Indeed,Lil Baby,hip hop,TRUE,2018,142273,0.53,0.11,0.96,0.56,Happy,Popular
+Vaina Loca,Ozuna,latin,FALSE,2018,176133,0.08,0.2,0.75,0.56,Happy,Popular
+How Long,Charlie Puth,pop,FALSE,2018,200853,0.08,0.04,0.85,0.81,Cheerful,Popular
+Better Now,Post Malone,hip hop,TRUE,2018,231266,0.04,0.14,0.68,0.34,Sad,Popular
+Look Alive (feat. Drake),BlocBoy JB,hip hop,TRUE,2018,181263,0.27,0.11,0.92,0.6,Happy,Popular
+River (feat. Ed Sheeran),Eminem,hip hop,TRUE,2017,221013,0.52,0.07,0.75,0.66,Happy,Popular
+Happier,Marshmello,pop,FALSE,2018,214289,0.05,0.17,0.69,0.67,Happy,Popular
+Be Alright,Dean Lewis,pop,TRUE,2018,196373,0.04,0.08,0.55,0.44,Sad,Popular
+Stir Fry,Migos,hip hop,TRUE,2018,190288,0.27,0.16,0.82,0.51,Sad,Popular
+In My Feelings,Drake,hip hop,TRUE,2018,217925,0.13,0.4,0.84,0.35,Sad,Popular
+Me Niego (feat. Ozuna & Wisin),Reik,pop,FALSE,2018,221653,0.1,0.64,0.78,0.77,Cheerful,Underrated
+Eastside (with Halsey & Khalid),benny blanco,hip hop,FALSE,2018,173799,0.32,0.12,0.56,0.32,Sad,Popular
+Trip,Ella Mai,hip hop,FALSE,2018,213993,0.14,0.11,0.48,0.36,Sad,Popular
+2002,Anne-Marie,pop,FALSE,2018,186986,0.12,0.14,0.7,0.6,Happy,Popular
+Finesse - Remix; feat. Cardi B,Bruno Mars,pop,FALSE,2017,217288,0.1,0.02,0.7,0.93,Cheerful,Popular
+The Greatest Show,Hugh Jackman,easy listening,FALSE,2017,302146,0.11,0.07,0.42,0.4,Sad,Popular
+Bad At Love,Halsey,pop,FALSE,2017,181279,0.03,0.09,0.68,0.61,Happy,Popular
+Never Be the Same,Camila Cabello,pop,FALSE,2018,226973,0.07,0.14,0.64,0.24,Depressed,Popular
+IDGAF,Dua Lipa,pop,TRUE,2017,217946,0.09,0.08,0.84,0.51,Happy,Popular
+Mine,Bazzi,pop,TRUE,2018,131064,0.07,0.45,0.71,0.72,Happy,Popular
+I Like Me Better,Lauv,pop,FALSE,2018,197436,0.25,0.1,0.75,0.42,Sad,Popular
+This Feeling,The Chainsmokers,pop,FALSE,2018,197946,0.04,0.09,0.58,0.45,Sad,Popular
+Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,pop,TRUE,2018,235545,0.05,0.13,0.85,0.45,Sad,Popular
+Love Lies (with Normani),Khalid,pop,FALSE,2018,201707,0.04,0.13,0.71,0.34,Sad,Popular
+Nice For What,Drake,hip hop,TRUE,2018,210746,0.07,0.12,0.59,0.76,Happy,Popular
+LOVE. FEAT. ZACARI.,Kendrick Lamar,hip hop,TRUE,2017,213400,0.09,0.15,0.8,0.78,Cheerful,Popular
+Psycho (feat. Ty Dolla $ign),Post Malone,hip hop,TRUE,2018,221440,0.11,0.11,0.75,0.46,Sad,Popular
+Old Town Road - Remix,Lil Nas X,hip hop,FALSE,2019,157066,0.1,0.11,0.88,0.64,Happy,Popular
+bad guy,Billie Eilish,pop,FALSE,2019,194087,0.38,0.1,0.7,0.56,Happy,Popular
+Señorita,Shawn Mendes,pop,FALSE,2019,190799,0.03,0.08,0.76,0.75,Happy,Popular
+7 rings,Ariana Grande,pop,TRUE,2019,178626,0.33,0.09,0.78,0.33,Sad,Popular
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,hip hop,FALSE,2019,157560,0.06,0.07,0.76,0.93,Cheerful,Popular
+Lost in the Fire (feat. The Weeknd),Gesaffelstein,Electronic,TRUE,2019,202093,0.04,0.12,0.66,0.17,Depressed,Popular
+Without Me,Halsey,pop,TRUE,2018,201660,0.07,0.09,0.75,0.53,Happy,Popular
+Ride It,Regard,pop,FALSE,2019,157605,0.09,0.11,0.88,0.88,Cheerful,Popular
+Shallow,Lady Gaga,pop,FALSE,2018,215733,0.03,0.23,0.57,0.32,Sad,Popular
+Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,pop,FALSE,2018,217466,0.07,0.39,0.6,0.24,Depressed,Popular
+Someone You Loved,Lewis Capaldi,pop,FALSE,2019,182160,0.03,0.11,0.5,0.45,Sad,Popular
+Pure Water (with Migos),Mustard,hip hop,TRUE,2019,192470,0.13,0.34,0.68,0.14,Depressed,Popular
+Shotta Flow (feat. Blueface) [Remix],NLE Choppa,hip hop,TRUE,2019,176631,0.42,0.14,0.89,0.57,Happy,Underrated
+ZEZE (feat. Travis Scott & Offset),Kodak Black,hip hop,TRUE,2018,228759,0.18,0.09,0.86,0.5,Sad,Popular
+Con Calma,Daddy Yankee,latin,FALSE,2019,193226,0.06,0.06,0.74,0.66,Happy,Popular
+Let Me Down Slowly,Alec Benjamin,rock,FALSE,2018,169353,0.03,0.12,0.65,0.48,Sad,Popular
+Kill This Love,BLACKPINK,pop,FALSE,2019,189052,0.24,0.33,0.74,0.58,Happy,Underrated
+Piece Of Your Heart,MEDUZA,pop,FALSE,2019,152913,0.03,0.07,0.68,0.63,Happy,Popular
+SICKO MODE,Travis Scott,hip hop,TRUE,2018,312820,0.22,0.12,0.83,0.45,Sad,Popular
+Mad Love,Mabel,pop,FALSE,2019,169813,0.16,0.11,0.63,0.62,Happy,Underrated
+Doin' Time,Lana Del Rey,pop,TRUE,2019,202192,0.04,0.09,0.64,0.52,Happy,Popular
+Look Back at It,A Boogie Wit da Hoodie,hip hop,TRUE,2018,179449,0.04,0.15,0.79,0.54,Happy,Popular
+Ransom,Lil Tecca,hip hop,TRUE,2019,131240,0.29,0.07,0.75,0.23,Depressed,Popular
+lovely (with Khalid),Billie Eilish,pop,FALSE,2018,200185,0.03,0.1,0.35,0.12,Depressed,Popular
+Don't Call Me Up,Mabel,pop,FALSE,2019,178480,0.15,0.08,0.67,0.23,Depressed,Popular
+Old Town Road,Lil Nas X,hip hop,FALSE,2019,113000,0.13,0.1,0.91,0.51,Sad,Popular
+Going Bad (feat. Drake),Meek Mill,hip hop,TRUE,2018,180522,0.09,0.25,0.89,0.54,Happy,Popular
+Wow.,Post Malone,hip hop,TRUE,2019,149546,0.21,0.1,0.83,0.39,Sad,Popular
+Swervin (feat. 6ix9ine),A Boogie Wit da Hoodie,hip hop,TRUE,2018,189486,0.3,0.11,0.58,0.43,Sad,Popular
+emotions,iann dior,hip hop,FALSE,2019,131213,0.04,0.14,0.63,0.16,Depressed,Popular
+Adan y Eva,Paulo Londra,hip hop,FALSE,2019,256971,0.34,0.07,0.77,0.72,Happy,Popular
+Money In The Grave (Drake ft. Rick Ross),Drake,hip hop,TRUE,2019,205426,0.05,0.12,0.83,0.1,Depressed,Popular
+MIA (feat. Drake),Bad Bunny,latin,FALSE,2018,210367,0.06,0.1,0.82,0.16,Depressed,Popular
+Pop Out (feat. Lil Tjay),Polo G,hip hop,TRUE,2019,166560,0.47,0.07,0.77,0.26,Sad,Popular
+Robbery,Juice WRLD,hip hop,TRUE,2019,240050,0.05,0.15,0.69,0.58,Happy,Underrated
+a lot,21 Savage,hip hop,TRUE,2018,288624,0.09,0.34,0.84,0.27,Sad,Popular
+China,Anuel AA,latin,FALSE,2019,301714,0.09,0.08,0.79,0.61,Happy,Popular
+Money,Cardi B,hip hop,TRUE,2018,183527,0.29,0.11,0.95,0.22,Depressed,Popular
+"break up with your girlfriend, i'm bored",Ariana Grande,pop,TRUE,2019,190440,0.09,0.11,0.73,0.34,Sad,Popular
+Location (feat. Burna Boy),Dave,hip hop,TRUE,2019,241293,0.3,0.1,0.81,0.55,Happy,Popular
+Sweet but Psycho,Ava Max,pop,FALSE,2018,187436,0.05,0.17,0.72,0.63,Happy,Underrated
+Don't Start Now,Dua Lipa,pop,FALSE,2019,183290,0.08,0.1,0.79,0.68,Happy,Popular
+Giant (with Rag'n'Bone Man),Calvin Harris,hip hop,FALSE,2019,229184,0.04,0.08,0.81,0.61,Happy,Popular
+Please Me,Cardi B,hip hop,TRUE,2019,200889,0.08,0.08,0.75,0.65,Happy,Popular
+Dance Monkey,Tones And I,pop,FALSE,2019,209438,0.09,0.15,0.82,0.51,Happy,Popular
+boyfriend (with Social House),Ariana Grande,pop,TRUE,2019,186106,0.46,0.16,0.4,0.7,Happy,Popular
+Callaita,Bad Bunny,latin,TRUE,2019,250533,0.31,0.24,0.61,0.24,Depressed,Popular
+So Am I,Ava Max,pop,FALSE,2019,183026,0.04,0.35,0.68,0.61,Happy,Underrated
+Calma - Remix,Pedro Capó,pop,FALSE,2018,238200,0.05,0.14,0.83,0.76,Cheerful,Popular
+MIDDLE CHILD,J. Cole,hip hop,TRUE,2019,213593,0.28,0.27,0.84,0.46,Sad,Popular
+Thotiana,Blueface,hip hop,TRUE,2018,129264,0.27,0.11,0.91,0.39,Sad,Underrated
+Suge,DaBaby,hip hop,TRUE,2019,163320,0.43,0.13,0.88,0.84,Cheerful,Popular
+bury a friend,Billie Eilish,pop,FALSE,2019,193143,0.33,0.11,0.91,0.2,Depressed,Popular
+Boy With Luv (feat. Halsey),BTS,pop,FALSE,2019,229773,0.1,0.19,0.65,0.8,Cheerful,Underrated
+Easier,5 Seconds of Summer,pop,FALSE,2019,157492,0.22,0.1,0.51,0.62,Happy,Underrated
+EARFQUAKE,"Tyler, The Creator",hip hop,TRUE,2019,190066,0.07,0.8,0.55,0.41,Sad,Popular
+3 Nights,Dominic Fike,rock,FALSE,2018,177666,0.09,0.1,0.82,0.88,Cheerful,Popular
+Secreto,Anuel AA,latin,FALSE,2019,258800,0.13,0.14,0.81,0.71,Happy,Popular
+Nights Like This (feat. Ty Dolla $ign),Kehlani,hip hop,TRUE,2019,201787,0.15,0.15,0.61,0.29,Sad,Popular
+Better Now,Post Malone,hip hop,TRUE,2018,231266,0.04,0.14,0.68,0.34,Sad,Popular
+i'm so tired...,Lauv,pop,FALSE,2019,162582,0.2,0.24,0.6,0.53,Happy,Underrated
+High Hopes,Panic! At The Disco,rock,FALSE,2018,190946,0.06,0.06,0.58,0.68,Happy,Popular
+One Thing Right,Marshmello,pop,FALSE,2019,181823,0.05,0.58,0.66,0.44,Sad,Popular
+How Do You Sleep?,Sam Smith,pop,FALSE,2019,202204,0.09,0.08,0.48,0.35,Sad,Popular
+Goodbyes (Feat. Young Thug),Post Malone,hip hop,TRUE,2019,174960,0.07,0.11,0.58,0.18,Depressed,Underrated
+Sucker,Jonas Brothers,pop,FALSE,2019,181026,0.06,0.11,0.84,0.95,Cheerful,Popular
+Cruel Summer,Taylor Swift,pop,FALSE,2019,178426,0.16,0.11,0.55,0.56,Happy,Popular
+Dancing With A Stranger (with Normani),Sam Smith,pop,FALSE,2019,171029,0.07,0.22,0.74,0.35,Sad,Popular
+Circles,Post Malone,hip hop,FALSE,2019,215280,0.04,0.09,0.7,0.55,Happy,Popular
